@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "released": "2026-10-06",
-  "notes": "Every picture in Reddit galleries, video post previews, up to 250 live RSS feeds, a Browser caches cleaner in Storage, and no error box on exit.",
+  "notes": "Folders collapse and stay folded, and a Hide read switch tidies the sidebar. Includes 1.4.1: every Reddit gallery picture, up to 250 live RSS feeds, a Browser caches cleaner, and no error box on exit.",
   "download": "https://app.gumroad.com/library"
 }
