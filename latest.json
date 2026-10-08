@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "released": "2026-10-07",
-  "notes": "Reddit posts that share an article now open that article in your phone's RSS app, with Comments on Reddit beside it, and title-only entries read cleaner.",
+  "notes": "Rename folders and sources (a renamed folder's RSS feed keeps its address), follow a Reddit user's posts by pasting their profile link, and fewer Reddit image posts arrive without their picture.",
   "download": "https://app.gumroad.com/library"
 }
