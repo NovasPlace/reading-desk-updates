@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
+  "version": "1.5.0",
   "released": "2026-10-08",
-  "notes": "NASA, TechCrunch and other big sites can be followed again, YouTube channels come in as videos even when YouTube's feed is down, and briefings show clean headlines.",
+  "notes": "The scraper update: follow a site's Next pages, watch a price or status for changes, export lists to CSV or JSON, get keyword alerts, follow Bluesky, Mastodon and Telegram, and read your feeds anywhere free with GitHub.",
   "download": "https://app.gumroad.com/library"
 }
