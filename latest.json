@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "released": "2026-10-08",
-  "notes": "The scraper update: follow a site's Next pages, watch a price or status for changes, export lists to CSV or JSON, get keyword alerts, follow Bluesky, Mastodon and Telegram, and read your feeds anywhere free with GitHub.",
+  "notes": "Pictures make it to your phone feeds: every entry gets its first picture before any gallery gets a second, with more than three times the room. Reddit GIFs move, fewer pictures fail, clearer messages, and a new Report a problem button.",
   "download": "https://app.gumroad.com/library"
 }
