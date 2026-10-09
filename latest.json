@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "released": "2026-10-08",
-  "notes": "Pictures make it to your phone feeds: every entry gets its first picture before any gallery gets a second, with more than three times the room. Reddit GIFs move, fewer pictures fail, clearer messages, and a new Report a problem button.",
+  "version": "1.5.2",
+  "released": "2026-10-09",
+  "notes": "Update notices you actually see: Reading Desk now checks every few hours and when you come back to the window. Also includes 1.5.1: pictures and moving GIFs in your phone feeds, and Report a problem.",
   "download": "https://app.gumroad.com/library"
 }
