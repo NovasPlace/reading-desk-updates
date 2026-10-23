@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
-  "released": "2026-10-09",
-  "notes": "Update notices you actually see: Reading Desk now checks every few hours and when you come back to the window. Also includes 1.5.1: pictures and moving GIFs in your phone feeds, and Report a problem.",
+  "version": "1.8.1",
+  "released": "2026-10-23",
+  "notes": "Follow Reddit custom feeds (multireddits) as one source, and Instagram profiles now bring in only their posts, with dates. Unsubscribe is easier to find: above each source and on a right-click in the sidebar.",
   "download": "https://app.gumroad.com/library"
 }
