@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "released": "2026-10-23",
-  "notes": "Follow Reddit custom feeds (multireddits) as one source, and Instagram profiles now bring in only their posts, with dates. Unsubscribe is easier to find: above each source and on a right-click in the sidebar.",
+  "version": "1.9.2",
+  "released": "2026-11-09",
+  "notes": "Follow a Reddit thread's comments, daily threads included, with a local RSS feed that can stand in for the Reddit RSS ending November 13, and Reddit search entries now show their date and author. Includes the quieter desk from 1.9.0 and read-only AI agent access (MCP) from 1.8.3.",
   "download": "https://app.gumroad.com/library"
 }
