@@ -1,0 +1,3416 @@
+{
+  "version": 1,
+  "updated": "2026-11-19",
+  "topics": [
+    {
+      "id": "world-news",
+      "name": "World News",
+      "keywords": [
+        "news",
+        "world",
+        "international",
+        "global news",
+        "headlines",
+        "current events",
+        "foreign affairs",
+        "geopolitics",
+        "breaking news",
+        "world affairs"
+      ],
+      "feeds": [
+        {
+          "title": "BBC News - World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "site": "https://www.bbc.com/news/world",
+          "about": "International news from the BBC, with reporting from bureaus around the globe."
+        },
+        {
+          "title": "NPR World",
+          "url": "https://feeds.npr.org/1004/rss.xml",
+          "site": "https://www.npr.org/sections/world/",
+          "about": "World news stories and analysis from NPR correspondents."
+        },
+        {
+          "title": "The Guardian - World",
+          "url": "https://www.theguardian.com/world/rss",
+          "site": "https://www.theguardian.com/world",
+          "about": "Global news coverage from The Guardian, free to read."
+        },
+        {
+          "title": "DW News",
+          "url": "https://rss.dw.com/xml/rss-en-world",
+          "site": "https://www.dw.com/en/",
+          "about": "German public broadcaster Deutsche Welle reporting on world events in English."
+        },
+        {
+          "title": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "site": "https://www.france24.com/en/",
+          "about": "International news from France's public news channel, in English."
+        },
+        {
+          "title": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "site": "https://www.aljazeera.com/",
+          "about": "Doha-based network with strong coverage of the Middle East, Africa and Asia."
+        },
+        {
+          "title": "PBS News",
+          "url": "https://www.pbs.org/newshour/feeds/rss/world",
+          "site": "https://www.pbs.org/newshour/world",
+          "about": "World stories from the PBS NewsHour team, the US public broadcaster."
+        },
+        {
+          "title": "CBC News - World",
+          "url": "https://www.cbc.ca/webfeed/rss/rss-world",
+          "site": "https://www.cbc.ca/news/world",
+          "about": "Canada's public broadcaster on international news."
+        },
+        {
+          "title": "UN News",
+          "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+          "site": "https://news.un.org/en/",
+          "about": "Stories on humanitarian work, peacekeeping and global issues from the United Nations."
+        },
+        {
+          "title": "Sky News - World",
+          "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+          "site": "https://news.sky.com/world",
+          "about": "International headlines from the UK broadcaster Sky News."
+        },
+        {
+          "title": "The Independent - World",
+          "url": "https://www.independent.co.uk/news/world/rss",
+          "site": "https://www.independent.co.uk/news/world",
+          "about": "World news and features from the British newspaper The Independent."
+        },
+        {
+          "title": "CBS News - World",
+          "url": "https://www.cbsnews.com/latest/rss/world",
+          "site": "https://www.cbsnews.com/world/",
+          "about": "International news from the US network CBS News."
+        },
+        {
+          "title": "Euronews",
+          "url": "https://www.euronews.com/rss?level=theme&name=news",
+          "site": "https://www.euronews.com/",
+          "about": "Pan-European news channel covering Europe and the wider world."
+        },
+        {
+          "title": "The Hindu - International",
+          "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+          "site": "https://www.thehindu.com/news/international/",
+          "about": "World news as reported by one of India's major daily newspapers."
+        },
+        {
+          "title": "Global Voices",
+          "url": "https://globalvoices.org/feed/",
+          "site": "https://globalvoices.org/",
+          "about": "Citizen media and local voices from countries that rarely make the headlines."
+        }
+      ],
+      "subreddits": [
+        "worldnews",
+        "news",
+        "geopolitics",
+        "europe"
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "keywords": [
+        "tech",
+        "tech news",
+        "gadgets",
+        "computers",
+        "smartphones",
+        "hardware",
+        "software",
+        "internet",
+        "silicon valley",
+        "startups",
+        "consumer electronics"
+      ],
+      "feeds": [
+        {
+          "title": "Ars Technica",
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "site": "https://arstechnica.com/",
+          "about": "In-depth technology news, reviews and analysis with a science bent."
+        },
+        {
+          "title": "The Verge",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "site": "https://www.theverge.com/",
+          "about": "Technology news, product reviews and coverage of how tech shapes culture."
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/feed/",
+          "site": "https://techcrunch.com/",
+          "about": "Startup, venture funding and big tech company news."
+        },
+        {
+          "title": "Engadget",
+          "url": "https://www.engadget.com/rss.xml",
+          "site": "https://www.engadget.com/",
+          "about": "Consumer electronics news, gadget reviews and buying advice."
+        },
+        {
+          "title": "The Register",
+          "url": "https://www.theregister.com/headlines.atom",
+          "site": "https://www.theregister.com/",
+          "about": "Irreverent British coverage of enterprise IT, software and the tech industry."
+        },
+        {
+          "title": "Hacker News: Front Page",
+          "url": "https://hnrss.org/frontpage",
+          "site": "https://news.ycombinator.com/",
+          "about": "The links currently on the front page of the Hacker News community site."
+        },
+        {
+          "title": "Techmeme",
+          "url": "https://www.techmeme.com/feed.xml",
+          "site": "https://www.techmeme.com/",
+          "about": "A curated digest of the day's most-discussed technology stories."
+        },
+        {
+          "title": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/feeds.xml",
+          "site": "https://www.tomshardware.com/",
+          "about": "PC hardware news, component reviews and benchmarks."
+        },
+        {
+          "title": "How-To Geek",
+          "url": "https://www.howtogeek.com/feed/",
+          "site": "https://www.howtogeek.com/",
+          "about": "Practical explainers and tech news for everyday computer and phone users."
+        },
+        {
+          "title": "ZDNET",
+          "url": "https://www.zdnet.com/rss/news/",
+          "site": "https://www.zdnet.com/",
+          "about": "Business technology news, product reviews and how-to guides."
+        },
+        {
+          "title": "Gizmodo",
+          "url": "https://gizmodo.com/feed",
+          "site": "https://gizmodo.com/",
+          "about": "Tech, science and culture news with an opinionated voice."
+        },
+        {
+          "title": "Slashdot",
+          "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+          "site": "https://slashdot.org/",
+          "about": "Long-running tech news site with lively reader discussion."
+        },
+        {
+          "title": "9to5Mac",
+          "url": "https://9to5mac.com/feed/",
+          "site": "https://9to5mac.com/",
+          "about": "Daily news and rumours about Apple products and software."
+        },
+        {
+          "title": "Android Authority",
+          "url": "https://www.androidauthority.com/feed/",
+          "site": "https://www.androidauthority.com/",
+          "about": "Android phone news, reviews and tips."
+        },
+        {
+          "title": "The Next Web",
+          "url": "https://thenextweb.com/feed",
+          "site": "https://thenextweb.com/",
+          "about": "European tech news with a focus on startups and emerging technology."
+        }
+      ],
+      "subreddits": [
+        "technology",
+        "gadgets",
+        "Futurology",
+        "hardware"
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "keywords": [
+        "science news",
+        "research",
+        "physics",
+        "biology",
+        "chemistry",
+        "discoveries",
+        "scientific",
+        "studies",
+        "neuroscience",
+        "evolution",
+        "math"
+      ],
+      "feeds": [
+        {
+          "title": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/feed/",
+          "site": "https://www.quantamagazine.org/",
+          "about": "Deeply reported stories on mathematics, physics, biology and computer science."
+        },
+        {
+          "title": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/all.xml",
+          "site": "https://www.sciencedaily.com/",
+          "about": "A steady stream of research news drawn from universities and labs."
+        },
+        {
+          "title": "Science News",
+          "url": "https://www.sciencenews.org/feed",
+          "site": "https://www.sciencenews.org/",
+          "about": "Independent nonprofit journalism covering new findings across the sciences."
+        },
+        {
+          "title": "Phys.org",
+          "url": "https://phys.org/rss-feed/",
+          "site": "https://phys.org/",
+          "about": "Research news in physics, earth science, chemistry and more."
+        },
+        {
+          "title": "Science (AAAS) News",
+          "url": "https://www.science.org/rss/news_current.xml",
+          "site": "https://www.science.org/news",
+          "about": "News from the journal Science on research, funding and science policy."
+        },
+        {
+          "title": "Live Science",
+          "url": "https://www.livescience.com/feeds.xml",
+          "site": "https://www.livescience.com/",
+          "about": "Popular science stories about animals, health, archaeology and the planet."
+        },
+        {
+          "title": "NPR Science",
+          "url": "https://feeds.npr.org/1007/rss.xml",
+          "site": "https://www.npr.org/sections/science/",
+          "about": "Science reporting from NPR's newsroom."
+        },
+        {
+          "title": "The Guardian - Science",
+          "url": "https://www.theguardian.com/science/rss",
+          "site": "https://www.theguardian.com/science",
+          "about": "Science news, features and commentary from The Guardian."
+        },
+        {
+          "title": "BBC News - Science & Environment",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "site": "https://www.bbc.com/news/science_and_environment",
+          "about": "The BBC's science and environment reporting."
+        },
+        {
+          "title": "Knowable Magazine",
+          "url": "https://knowablemagazine.org/rss",
+          "site": "https://knowablemagazine.org/",
+          "about": "Explanatory journalism on science from Annual Reviews."
+        },
+        {
+          "title": "Nautilus",
+          "url": "https://nautil.us/feed",
+          "site": "https://nautil.us/",
+          "about": "Long-form essays connecting science with culture and philosophy."
+        },
+        {
+          "title": "Smithsonian - Science & Nature",
+          "url": "https://www.smithsonianmag.com/rss/science-nature/",
+          "site": "https://www.smithsonianmag.com/science-nature/",
+          "about": "Science and nature stories from Smithsonian magazine."
+        },
+        {
+          "title": "Ars Technica - Science",
+          "url": "https://feeds.arstechnica.com/arstechnica/science",
+          "site": "https://arstechnica.com/science/",
+          "about": "Ars Technica's reporting on research across the sciences."
+        },
+        {
+          "title": "Scientific American",
+          "url": "https://www.scientificamerican.com/platform/syndication/rss/",
+          "site": "https://www.scientificamerican.com/",
+          "about": "Science news and explainers from the long-running US magazine."
+        },
+        {
+          "title": "Eos",
+          "url": "https://eos.org/feed",
+          "site": "https://eos.org/",
+          "about": "Earth and space science news from the American Geophysical Union."
+        }
+      ],
+      "subreddits": [
+        "science",
+        "askscience",
+        "EverythingScience",
+        "Physics"
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "keywords": [
+        "astronomy",
+        "nasa",
+        "rockets",
+        "spaceflight",
+        "planets",
+        "telescopes",
+        "space exploration",
+        "astrophysics",
+        "mars",
+        "cosmos",
+        "stargazing",
+        "spacex",
+        "launches"
+      ],
+      "feeds": [
+        {
+          "title": "NASA",
+          "url": "https://www.nasa.gov/feed/",
+          "site": "https://www.nasa.gov/",
+          "about": "News, pictures and mission updates from NASA."
+        },
+        {
+          "title": "Space.com",
+          "url": "https://www.space.com/feeds.xml",
+          "site": "https://www.space.com/",
+          "about": "Spaceflight, astronomy and skywatching news for a general audience."
+        },
+        {
+          "title": "SpaceNews",
+          "url": "https://spacenews.com/feed/",
+          "site": "https://spacenews.com/",
+          "about": "Business and policy news about the space industry."
+        },
+        {
+          "title": "NASASpaceflight.com",
+          "url": "https://www.nasaspaceflight.com/feed/",
+          "site": "https://www.nasaspaceflight.com/",
+          "about": "Detailed launch coverage and spaceflight engineering news."
+        },
+        {
+          "title": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/feed/",
+          "site": "https://spaceflightnow.com/",
+          "about": "Launch schedules, mission reports and live coverage of rocket launches."
+        },
+        {
+          "title": "Universe Today",
+          "url": "https://www.universetoday.com/rss.xml",
+          "site": "https://www.universetoday.com/",
+          "about": "Astronomy and space exploration news written for curious readers."
+        },
+        {
+          "title": "The Planetary Society",
+          "url": "https://www.planetary.org/rss/articles",
+          "site": "https://www.planetary.org/",
+          "about": "Articles on planetary science and space advocacy from the nonprofit society."
+        },
+        {
+          "title": "EarthSky",
+          "url": "https://earthsky.org/feed/",
+          "site": "https://earthsky.org/",
+          "about": "Night sky guides plus space and earth science updates."
+        },
+        {
+          "title": "Payload",
+          "url": "https://payloadspace.com/feed/",
+          "site": "https://payloadspace.com/",
+          "about": "Space industry news and analysis focused on commercial space."
+        },
+        {
+          "title": "Centauri Dreams",
+          "url": "https://www.centauri-dreams.org/feed/",
+          "site": "https://www.centauri-dreams.org/",
+          "about": "Essays on interstellar exploration, exoplanets and deep-space propulsion."
+        },
+        {
+          "title": "Phys.org - Space",
+          "url": "https://phys.org/rss-feed/space-news/",
+          "site": "https://phys.org/space-news/",
+          "about": "Space and astronomy research news collected by Phys.org."
+        },
+        {
+          "title": "Astronomy Magazine",
+          "url": "https://www.astronomy.com/feed/",
+          "site": "https://www.astronomy.com/",
+          "about": "Astronomy news, observing tips and science features."
+        },
+        {
+          "title": "ESA - Latest News",
+          "url": "https://www.esa.int/rss/latest-news-homepage.rss",
+          "site": "https://www.esa.int/",
+          "about": "News releases from the European Space Agency."
+        },
+        {
+          "title": "Ars Technica - Space",
+          "url": "https://arstechnica.com/space/feed/",
+          "site": "https://arstechnica.com/space/",
+          "about": "Ars Technica's reporting on rockets, launch companies and space science."
+        }
+      ],
+      "subreddits": [
+        "space",
+        "astronomy",
+        "spacex",
+        "nasa"
+      ]
+    },
+    {
+      "id": "climate-environment",
+      "name": "Climate & Environment",
+      "keywords": [
+        "climate",
+        "climate change",
+        "environment",
+        "global warming",
+        "sustainability",
+        "conservation",
+        "nature",
+        "ecology",
+        "biodiversity",
+        "pollution",
+        "green",
+        "wildlife"
+      ],
+      "feeds": [
+        {
+          "title": "Inside Climate News",
+          "url": "https://insideclimatenews.org/feed/",
+          "site": "https://insideclimatenews.org/",
+          "about": "Nonprofit, Pulitzer-winning reporting on climate, energy and the environment."
+        },
+        {
+          "title": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/feed",
+          "site": "https://www.carbonbrief.org/",
+          "about": "Data-driven coverage of climate science, policy and energy."
+        },
+        {
+          "title": "Grist",
+          "url": "https://grist.org/feed/",
+          "site": "https://grist.org/",
+          "about": "Nonprofit climate journalism with an eye on solutions and justice."
+        },
+        {
+          "title": "Yale Environment 360",
+          "url": "https://e360.yale.edu/feed.xml",
+          "site": "https://e360.yale.edu/",
+          "about": "In-depth environmental reporting and opinion from Yale."
+        },
+        {
+          "title": "The Guardian - Environment",
+          "url": "https://www.theguardian.com/environment/rss",
+          "site": "https://www.theguardian.com/environment",
+          "about": "Environment news, climate reporting and wildlife stories from The Guardian."
+        },
+        {
+          "title": "Mongabay",
+          "url": "https://news.mongabay.com/feed/",
+          "site": "https://news.mongabay.com/",
+          "about": "Conservation and environmental science news, especially on tropical forests."
+        },
+        {
+          "title": "Climate Home News",
+          "url": "https://www.climatechangenews.com/feed/",
+          "site": "https://www.climatechangenews.com/",
+          "about": "Reporting on international climate politics and negotiations."
+        },
+        {
+          "title": "State of the Planet",
+          "url": "https://news.climate.columbia.edu/feed/",
+          "site": "https://news.climate.columbia.edu/",
+          "about": "Climate and sustainability research news from Columbia Climate School."
+        },
+        {
+          "title": "The Revelator",
+          "url": "https://therevelator.org/feed/",
+          "site": "https://therevelator.org/",
+          "about": "Nonprofit coverage of biodiversity, extinction and environmental policy."
+        },
+        {
+          "title": "Eos",
+          "url": "https://eos.org/feed",
+          "site": "https://eos.org/",
+          "about": "Earth and space science news from the American Geophysical Union."
+        },
+        {
+          "title": "Floodlight",
+          "url": "https://floodlightnews.org/rss/",
+          "site": "https://floodlightnews.org/",
+          "about": "Nonprofit investigations into the interests shaping climate policy."
+        },
+        {
+          "title": "Canary Media",
+          "url": "https://www.canarymedia.com/rss.rss",
+          "site": "https://www.canarymedia.com/",
+          "about": "News about the clean energy transition and decarbonization."
+        },
+        {
+          "title": "BBC News - Science & Environment",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "site": "https://www.bbc.com/news/science_and_environment",
+          "about": "The BBC's science and environment reporting."
+        }
+      ],
+      "subreddits": [
+        "climate",
+        "environment",
+        "climatechange",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "energy",
+      "name": "Energy",
+      "keywords": [
+        "renewable energy",
+        "solar",
+        "wind power",
+        "electric vehicles",
+        "ev",
+        "batteries",
+        "oil and gas",
+        "nuclear",
+        "power grid",
+        "clean energy",
+        "electricity",
+        "utilities"
+      ],
+      "feeds": [
+        {
+          "title": "Canary Media",
+          "url": "https://www.canarymedia.com/rss.rss",
+          "site": "https://www.canarymedia.com/",
+          "about": "News about the clean energy transition and decarbonization."
+        },
+        {
+          "title": "Utility Dive",
+          "url": "https://www.utilitydive.com/feeds/news/",
+          "site": "https://www.utilitydive.com/",
+          "about": "Trade news on electric utilities, grids and power markets."
+        },
+        {
+          "title": "CleanTechnica",
+          "url": "https://cleantechnica.com/feed/",
+          "site": "https://cleantechnica.com/",
+          "about": "News and opinion on solar, wind, batteries and electric cars."
+        },
+        {
+          "title": "Electrek",
+          "url": "https://electrek.co/feed/",
+          "site": "https://electrek.co/",
+          "about": "Electric vehicle and clean energy news."
+        },
+        {
+          "title": "pv magazine",
+          "url": "https://www.pv-magazine.com/feed/",
+          "site": "https://www.pv-magazine.com/",
+          "about": "Global news on the solar photovoltaic industry and markets."
+        },
+        {
+          "title": "EIA - Today in Energy",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "site": "https://www.eia.gov/todayinenergy/",
+          "about": "Short data-backed articles from the US Energy Information Administration."
+        },
+        {
+          "title": "POWER Magazine",
+          "url": "https://www.powermag.com/feed/",
+          "site": "https://www.powermag.com/",
+          "about": "Coverage of power generation technology, from gas turbines to nuclear."
+        },
+        {
+          "title": "Energy-Storage.news",
+          "url": "https://www.energy-storage.news/feed/",
+          "site": "https://www.energy-storage.news/",
+          "about": "News about grid batteries and other energy storage projects."
+        },
+        {
+          "title": "OilPrice.com",
+          "url": "https://oilprice.com/rss/main",
+          "site": "https://oilprice.com/",
+          "about": "News and analysis on oil, gas and energy markets."
+        },
+        {
+          "title": "Renewable Energy World",
+          "url": "https://www.renewableenergyworld.com/feed/",
+          "site": "https://www.renewableenergyworld.com/",
+          "about": "Trade news on renewable power projects and policy."
+        },
+        {
+          "title": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/feed",
+          "site": "https://www.carbonbrief.org/",
+          "about": "Data-driven coverage of climate science, policy and energy."
+        },
+        {
+          "title": "Volts",
+          "url": "https://www.volts.wtf/feed",
+          "site": "https://www.volts.wtf/",
+          "about": "David Roberts' newsletter and podcast on clean energy and politics."
+        },
+        {
+          "title": "offshoreWIND.biz",
+          "url": "https://www.offshorewind.biz/feed",
+          "site": "https://www.offshorewind.biz/",
+          "about": "News about offshore wind farms, vessels and supply chains."
+        },
+        {
+          "title": "Rigzone",
+          "url": "https://www.rigzone.com/news/rss/rigzone_latest.aspx",
+          "site": "https://www.rigzone.com/",
+          "about": "Oil and gas industry news."
+        },
+        {
+          "title": "InsideEVs",
+          "url": "https://insideevs.com/rss/articles/all/",
+          "site": "https://insideevs.com/",
+          "about": "Electric car news, reviews and charging coverage."
+        }
+      ],
+      "subreddits": [
+        "energy",
+        "RenewableEnergy",
+        "solar",
+        "nuclear",
+        "electricvehicles"
+      ]
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "keywords": [
+        "coding",
+        "software development",
+        "developer",
+        "software engineering",
+        "web development",
+        "javascript",
+        "python",
+        "rust",
+        "golang",
+        "code",
+        "devops",
+        "programming languages"
+      ],
+      "feeds": [
+        {
+          "title": "Lobsters",
+          "url": "https://lobste.rs/rss",
+          "site": "https://lobste.rs/",
+          "about": "Community-curated links about computing and programming."
+        },
+        {
+          "title": "Simon Willison's Weblog",
+          "url": "https://simonwillison.net/atom/everything/",
+          "site": "https://simonwillison.net/",
+          "about": "Frequent notes on software, Python, data tools and practical use of LLMs."
+        },
+        {
+          "title": "The GitHub Blog",
+          "url": "https://github.blog/feed/",
+          "site": "https://github.blog/",
+          "about": "Product updates, engineering posts and open source news from GitHub."
+        },
+        {
+          "title": "Stack Overflow Blog",
+          "url": "https://stackoverflow.blog/feed/",
+          "site": "https://stackoverflow.blog/",
+          "about": "Developer culture, engineering practice and survey results."
+        },
+        {
+          "title": "Martin Fowler",
+          "url": "https://martinfowler.com/feed.atom",
+          "site": "https://martinfowler.com/",
+          "about": "Essays on software design, architecture and agile delivery."
+        },
+        {
+          "title": "Julia Evans",
+          "url": "https://jvns.ca/atom.xml",
+          "site": "https://jvns.ca/",
+          "about": "Friendly explanations of how computers, networking and tools actually work."
+        },
+        {
+          "title": "The Pragmatic Engineer",
+          "url": "https://newsletter.pragmaticengineer.com/feed",
+          "site": "https://newsletter.pragmaticengineer.com/",
+          "about": "Insights on software engineering careers and how tech companies build software."
+        },
+        {
+          "title": "Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/feed/",
+          "site": "https://www.smashingmagazine.com/",
+          "about": "Articles on front-end development, accessibility and UX."
+        },
+        {
+          "title": "DEV Community",
+          "url": "https://dev.to/feed",
+          "site": "https://dev.to/",
+          "about": "Posts written by developers about languages, tools and careers."
+        },
+        {
+          "title": "InfoQ",
+          "url": "https://feed.infoq.com/",
+          "site": "https://www.infoq.com/",
+          "about": "News and talks on software architecture, cloud and engineering leadership."
+        },
+        {
+          "title": "Real Python",
+          "url": "https://realpython.com/atom.xml",
+          "site": "https://realpython.com/",
+          "about": "Python tutorials and articles for every skill level."
+        },
+        {
+          "title": "This Week in Rust",
+          "url": "https://this-week-in-rust.org/rss.xml",
+          "site": "https://this-week-in-rust.org/",
+          "about": "A weekly roundup of news and links from the Rust community."
+        },
+        {
+          "title": "The Old New Thing",
+          "url": "https://devblogs.microsoft.com/oldnewthing/feed/",
+          "site": "https://devblogs.microsoft.com/oldnewthing/",
+          "about": "Raymond Chen on the history and inner workings of Windows programming."
+        },
+        {
+          "title": "JavaScript Weekly",
+          "url": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml",
+          "site": "https://javascriptweekly.com/",
+          "about": "A weekly digest of JavaScript articles, releases and tools."
+        },
+        {
+          "title": "The Go Blog",
+          "url": "https://go.dev/blog/feed.atom",
+          "site": "https://go.dev/blog/",
+          "about": "Release news and design posts from the Go team."
+        }
+      ],
+      "subreddits": [
+        "programming",
+        "learnprogramming",
+        "webdev",
+        "ExperiencedDevs",
+        "cscareerquestions"
+      ]
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "ai",
+        "machine learning",
+        "ml",
+        "llm",
+        "large language models",
+        "chatgpt",
+        "deep learning",
+        "neural networks",
+        "generative ai",
+        "openai",
+        "chatbots",
+        "ai news"
+      ],
+      "feeds": [
+        {
+          "title": "Simon Willison's Weblog",
+          "url": "https://simonwillison.net/atom/everything/",
+          "site": "https://simonwillison.net/",
+          "about": "Frequent notes on software, Python, data tools and practical use of LLMs."
+        },
+        {
+          "title": "Import AI",
+          "url": "https://importai.substack.com/feed",
+          "site": "https://importai.substack.com/",
+          "about": "Jack Clark's weekly newsletter on AI research and policy."
+        },
+        {
+          "title": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/feed.xml",
+          "site": "https://huggingface.co/blog",
+          "about": "Posts on open models, datasets and machine learning tooling."
+        },
+        {
+          "title": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/rss.xml",
+          "site": "https://deepmind.google/",
+          "about": "Research announcements from Google DeepMind."
+        },
+        {
+          "title": "Google Research Blog",
+          "url": "https://research.google/blog/rss/",
+          "site": "https://research.google/blog/",
+          "about": "Research write-ups from Google on AI and computer science."
+        },
+        {
+          "title": "OpenAI News",
+          "url": "https://openai.com/news/rss.xml",
+          "site": "https://openai.com/news/",
+          "about": "Product, research and company announcements from OpenAI."
+        },
+        {
+          "title": "The Verge - AI",
+          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+          "site": "https://www.theverge.com/ai-artificial-intelligence",
+          "about": "The Verge's coverage of AI products, companies and policy."
+        },
+        {
+          "title": "TechCrunch - AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "site": "https://techcrunch.com/category/artificial-intelligence/",
+          "about": "AI startup, funding and product news from TechCrunch."
+        },
+        {
+          "title": "Ars Technica - AI",
+          "url": "https://arstechnica.com/ai/feed/",
+          "site": "https://arstechnica.com/ai/",
+          "about": "Ars Technica's reporting on AI technology and its effects."
+        },
+        {
+          "title": "Interconnects",
+          "url": "https://www.interconnects.ai/feed",
+          "site": "https://www.interconnects.ai/",
+          "about": "Nathan Lambert's analysis of model training, open models and the AI industry."
+        },
+        {
+          "title": "One Useful Thing",
+          "url": "https://www.oneusefulthing.org/feed",
+          "site": "https://www.oneusefulthing.org/",
+          "about": "Ethan Mollick on using AI for work, teaching and research."
+        },
+        {
+          "title": "Ahead of AI",
+          "url": "https://magazine.sebastianraschka.com/feed",
+          "site": "https://magazine.sebastianraschka.com/",
+          "about": "Sebastian Raschka's explainers on LLM research and training methods."
+        },
+        {
+          "title": "Latent Space",
+          "url": "https://latent.space/feed",
+          "site": "https://www.latent.space/",
+          "about": "Podcast and newsletter for engineers building with AI models."
+        },
+        {
+          "title": "MarkTechPost",
+          "url": "https://www.marktechpost.com/feed/",
+          "site": "https://www.marktechpost.com/",
+          "about": "Summaries of new machine learning papers and AI releases."
+        },
+        {
+          "title": "Microsoft Research Blog",
+          "url": "https://www.microsoft.com/en-us/research/feed/",
+          "site": "https://www.microsoft.com/en-us/research/blog/",
+          "about": "Research news from Microsoft's labs, much of it on AI."
+        }
+      ],
+      "subreddits": [
+        "artificial",
+        "MachineLearning",
+        "LocalLLaMA",
+        "OpenAI",
+        "singularity"
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "name": "Cybersecurity",
+      "keywords": [
+        "security",
+        "infosec",
+        "hacking",
+        "malware",
+        "ransomware",
+        "data breach",
+        "vulnerabilities",
+        "cyber attacks",
+        "threat intelligence",
+        "information security",
+        "cve",
+        "phishing"
+      ],
+      "feeds": [
+        {
+          "title": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/feed/",
+          "site": "https://krebsonsecurity.com/",
+          "about": "Investigative reporting on cybercrime by Brian Krebs."
+        },
+        {
+          "title": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/feed/",
+          "site": "https://www.bleepingcomputer.com/",
+          "about": "Fast news on malware, breaches, ransomware and security patches."
+        },
+        {
+          "title": "Schneier on Security",
+          "url": "https://www.schneier.com/feed/atom/",
+          "site": "https://www.schneier.com/",
+          "about": "Bruce Schneier's commentary on security, cryptography and policy."
+        },
+        {
+          "title": "The Record",
+          "url": "https://therecord.media/feed",
+          "site": "https://therecord.media/",
+          "about": "Cybersecurity news from Recorded Future's editorially independent newsroom."
+        },
+        {
+          "title": "SecurityWeek",
+          "url": "https://www.securityweek.com/feed/",
+          "site": "https://www.securityweek.com/",
+          "about": "Enterprise security news covering vulnerabilities, threats and industry deals."
+        },
+        {
+          "title": "Dark Reading",
+          "url": "https://www.darkreading.com/rss.xml",
+          "site": "https://www.darkreading.com/",
+          "about": "News and analysis for security professionals."
+        },
+        {
+          "title": "The Hacker News",
+          "url": "https://feeds.feedburner.com/TheHackersNews",
+          "site": "https://thehackernews.com/",
+          "about": "Security news on vulnerabilities, malware campaigns and threat actors."
+        },
+        {
+          "title": "Troy Hunt",
+          "url": "https://www.troyhunt.com/rss/",
+          "site": "https://www.troyhunt.com/",
+          "about": "The creator of Have I Been Pwned writing about breaches and web security."
+        },
+        {
+          "title": "CyberScoop",
+          "url": "https://cyberscoop.com/feed/",
+          "site": "https://cyberscoop.com/",
+          "about": "Cybersecurity news with a focus on government and policy."
+        },
+        {
+          "title": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/rssfeed_full.xml",
+          "site": "https://isc.sans.edu/",
+          "about": "Daily diaries from SANS handlers about threats seen in the wild."
+        },
+        {
+          "title": "Help Net Security",
+          "url": "https://www.helpnetsecurity.com/feed/",
+          "site": "https://www.helpnetsecurity.com/",
+          "about": "Daily security news, product releases and research."
+        },
+        {
+          "title": "Graham Cluley",
+          "url": "https://grahamcluley.com/feed/",
+          "site": "https://grahamcluley.com/",
+          "about": "Accessible commentary on scams, breaches and online safety."
+        },
+        {
+          "title": "Malwarebytes Labs",
+          "url": "https://www.malwarebytes.com/blog/feed/index.xml",
+          "site": "https://www.malwarebytes.com/blog",
+          "about": "Threat research and consumer security advice from Malwarebytes."
+        },
+        {
+          "title": "Securelist",
+          "url": "https://securelist.com/feed/",
+          "site": "https://securelist.com/",
+          "about": "Malware and threat research from Kaspersky's analysts."
+        },
+        {
+          "title": "Unit 42",
+          "url": "https://unit42.paloaltonetworks.com/feed/",
+          "site": "https://unit42.paloaltonetworks.com/",
+          "about": "Threat intelligence research from Palo Alto Networks."
+        }
+      ],
+      "subreddits": [
+        "netsec",
+        "cybersecurity",
+        "AskNetsec",
+        "hacking"
+      ]
+    },
+    {
+      "id": "linux-open-source",
+      "name": "Linux & Open Source",
+      "keywords": [
+        "linux",
+        "open source",
+        "foss",
+        "ubuntu",
+        "debian",
+        "fedora",
+        "arch linux",
+        "kde",
+        "gnome",
+        "free software",
+        "linux distro",
+        "kernel",
+        "floss"
+      ],
+      "feeds": [
+        {
+          "title": "LWN.net",
+          "url": "https://lwn.net/headlines/rss",
+          "site": "https://lwn.net/",
+          "about": "Authoritative coverage of the Linux kernel and the free software community."
+        },
+        {
+          "title": "Phoronix",
+          "url": "https://www.phoronix.com/rss.php",
+          "site": "https://www.phoronix.com/",
+          "about": "Linux hardware support, kernel development and benchmark news."
+        },
+        {
+          "title": "OMG! Ubuntu",
+          "url": "https://www.omgubuntu.co.uk/feed",
+          "site": "https://www.omgubuntu.co.uk/",
+          "about": "News, apps and tips for Ubuntu and the Linux desktop."
+        },
+        {
+          "title": "It's FOSS",
+          "url": "https://itsfoss.com/rss/",
+          "site": "https://itsfoss.com/",
+          "about": "Beginner-friendly Linux tutorials, app picks and open source news."
+        },
+        {
+          "title": "9to5Linux",
+          "url": "https://9to5linux.com/feed",
+          "site": "https://9to5linux.com/",
+          "about": "Release news for Linux distributions, desktops and kernels."
+        },
+        {
+          "title": "GamingOnLinux",
+          "url": "https://www.gamingonlinux.com/article_rss.php",
+          "site": "https://www.gamingonlinux.com/",
+          "about": "Gaming news for Linux and the Steam Deck."
+        },
+        {
+          "title": "Fedora Magazine",
+          "url": "https://fedoramagazine.org/feed/",
+          "site": "https://fedoramagazine.org/",
+          "about": "Guides and news for Fedora Linux users."
+        },
+        {
+          "title": "Linuxiac",
+          "url": "https://linuxiac.com/feed/",
+          "site": "https://linuxiac.com/",
+          "about": "Linux and open source news, releases and how-tos."
+        },
+        {
+          "title": "DistroWatch Weekly",
+          "url": "https://distrowatch.com/news/dw.xml",
+          "site": "https://distrowatch.com/",
+          "about": "Weekly reviews and news about Linux and BSD distributions."
+        },
+        {
+          "title": "Arch Linux News",
+          "url": "https://archlinux.org/feeds/news/",
+          "site": "https://archlinux.org/",
+          "about": "Official announcements that need attention from Arch Linux users."
+        },
+        {
+          "title": "Ubuntu Blog",
+          "url": "https://ubuntu.com/blog/feed",
+          "site": "https://ubuntu.com/blog",
+          "about": "Posts from Canonical about Ubuntu releases and projects."
+        },
+        {
+          "title": "Planet KDE",
+          "url": "https://planet.kde.org/index.xml",
+          "site": "https://planet.kde.org/",
+          "about": "Blog posts from KDE developers and contributors."
+        },
+        {
+          "title": "Planet GNOME",
+          "url": "https://planet.gnome.org/atom.xml",
+          "site": "https://planet.gnome.org/",
+          "about": "Blog posts from GNOME developers and contributors."
+        },
+        {
+          "title": "Linux Today",
+          "url": "https://www.linuxtoday.com/feed/",
+          "site": "https://www.linuxtoday.com/",
+          "about": "Linux news and tutorials collected from across the web."
+        },
+        {
+          "title": "Tecmint",
+          "url": "https://www.tecmint.com/feed/",
+          "site": "https://www.tecmint.com/",
+          "about": "Linux command line and system administration tutorials."
+        }
+      ],
+      "subreddits": [
+        "linux",
+        "opensource",
+        "linux4noobs",
+        "archlinux",
+        "Ubuntu"
+      ]
+    },
+    {
+      "id": "self-hosting",
+      "name": "Self-Hosting & Homelab",
+      "keywords": [
+        "homelab",
+        "self hosted",
+        "selfhosted",
+        "self-hosted",
+        "home server",
+        "docker",
+        "unraid",
+        "nas",
+        "proxmox",
+        "truenas",
+        "home assistant",
+        "raspberry pi",
+        "plex",
+        "jellyfin"
+      ],
+      "feeds": [
+        {
+          "title": "selfh.st",
+          "url": "https://selfh.st/rss/",
+          "site": "https://selfh.st/",
+          "about": "Weekly roundup of new and updated self-hosted software."
+        },
+        {
+          "title": "Jeff Geerling",
+          "url": "https://www.jeffgeerling.com/blog.xml",
+          "site": "https://www.jeffgeerling.com/",
+          "about": "Raspberry Pi clusters, homelab hardware and automation experiments."
+        },
+        {
+          "title": "ServeTheHome",
+          "url": "https://www.servethehome.com/feed/",
+          "site": "https://www.servethehome.com/",
+          "about": "Reviews of servers, networking and storage gear, from enterprise to homelab."
+        },
+        {
+          "title": "Noted",
+          "url": "https://noted.lol/rss/",
+          "site": "https://noted.lol/",
+          "about": "Guides and reviews of self-hosted apps and tools."
+        },
+        {
+          "title": "Virtualization Howto",
+          "url": "https://www.virtualizationhowto.com/feed/",
+          "site": "https://www.virtualizationhowto.com/",
+          "about": "Proxmox, Docker, Kubernetes and homelab tutorials."
+        },
+        {
+          "title": "Home Assistant Blog",
+          "url": "https://www.home-assistant.io/atom.xml",
+          "site": "https://www.home-assistant.io/blog/",
+          "about": "Release notes and news from the open source home automation platform."
+        },
+        {
+          "title": "Marius Hosting",
+          "url": "https://mariushosting.com/feed/",
+          "site": "https://mariushosting.com/",
+          "about": "Step-by-step guides for running Docker apps on Synology and other NAS boxes."
+        },
+        {
+          "title": "XDA Developers",
+          "url": "https://www.xda-developers.com/feed/",
+          "site": "https://www.xda-developers.com/",
+          "about": "Hardware, home server and software coverage for tinkerers."
+        },
+        {
+          "title": "Tailscale Blog",
+          "url": "https://tailscale.com/blog/index.xml",
+          "site": "https://tailscale.com/blog",
+          "about": "Networking posts and product news from the WireGuard-based VPN company."
+        },
+        {
+          "title": "Raspberry Pi News",
+          "url": "https://www.raspberrypi.com/news/feed/",
+          "site": "https://www.raspberrypi.com/news/",
+          "about": "Product news and community projects from Raspberry Pi."
+        },
+        {
+          "title": "CNX Software",
+          "url": "https://www.cnx-software.com/feed/",
+          "site": "https://www.cnx-software.com/",
+          "about": "News on single-board computers, mini PCs and embedded Linux hardware."
+        },
+        {
+          "title": "Docker Blog",
+          "url": "https://www.docker.com/feed/",
+          "site": "https://www.docker.com/blog/",
+          "about": "Container tooling news and tutorials from Docker."
+        },
+        {
+          "title": "Lemmy - selfhosted",
+          "url": "https://lemmy.world/feeds/c/selfhosted.xml",
+          "site": "https://lemmy.world/c/selfhosted",
+          "about": "Posts from the self-hosting community on Lemmy."
+        },
+        {
+          "title": "Linux Handbook",
+          "url": "https://linuxhandbook.com/rss/",
+          "site": "https://linuxhandbook.com/",
+          "about": "Linux, Docker and self-hosting tutorials."
+        },
+        {
+          "title": "Proxmox Announcements",
+          "url": "https://forum.proxmox.com/forums/announcements.7/index.rss",
+          "site": "https://www.proxmox.com/",
+          "about": "Official release announcements for Proxmox VE and related products."
+        }
+      ],
+      "subreddits": [
+        "selfhosted",
+        "homelab",
+        "unRAID",
+        "HomeServer",
+        "DataHoarder",
+        "homeassistant"
+      ]
+    },
+    {
+      "id": "privacy-digital-rights",
+      "name": "Privacy & Digital Rights",
+      "keywords": [
+        "privacy",
+        "digital rights",
+        "surveillance",
+        "data protection",
+        "gdpr",
+        "encryption",
+        "online privacy",
+        "civil liberties",
+        "tracking",
+        "censorship",
+        "free speech online"
+      ],
+      "feeds": [
+        {
+          "title": "EFF Deeplinks",
+          "url": "https://www.eff.org/rss/updates.xml",
+          "site": "https://www.eff.org/deeplinks",
+          "about": "The Electronic Frontier Foundation on privacy, free expression and tech law."
+        },
+        {
+          "title": "Techdirt",
+          "url": "https://www.techdirt.com/feed/",
+          "site": "https://www.techdirt.com/",
+          "about": "Commentary on tech policy, copyright, free speech and surveillance."
+        },
+        {
+          "title": "404 Media",
+          "url": "https://www.404media.co/rss/",
+          "site": "https://www.404media.co/",
+          "about": "Independent investigations into surveillance, data brokers and the internet."
+        },
+        {
+          "title": "Privacy International",
+          "url": "https://privacyinternational.org/rss.xml",
+          "site": "https://privacyinternational.org/",
+          "about": "Investigations and campaigns challenging surveillance and data exploitation."
+        },
+        {
+          "title": "noyb",
+          "url": "https://noyb.eu/en/rss",
+          "site": "https://noyb.eu/en",
+          "about": "Max Schrems' group bringing privacy complaints under European law."
+        },
+        {
+          "title": "EDRi",
+          "url": "https://edri.org/feed/",
+          "site": "https://edri.org/",
+          "about": "The European Digital Rights network on EU tech policy and civil liberties."
+        },
+        {
+          "title": "Access Now",
+          "url": "https://www.accessnow.org/feed/",
+          "site": "https://www.accessnow.org/",
+          "about": "Advocacy on digital rights, internet shutdowns and at-risk users."
+        },
+        {
+          "title": "The Markup",
+          "url": "https://themarkup.org/feeds/rss.xml",
+          "site": "https://themarkup.org/",
+          "about": "Data-driven investigations into how technology affects people."
+        },
+        {
+          "title": "EPIC",
+          "url": "https://epic.org/feed/",
+          "site": "https://epic.org/",
+          "about": "The Electronic Privacy Information Center on privacy law and policy."
+        },
+        {
+          "title": "Citizen Lab",
+          "url": "https://citizenlab.ca/feed/",
+          "site": "https://citizenlab.ca/",
+          "about": "Research into spyware, censorship and digital threats to civil society."
+        },
+        {
+          "title": "Proton Blog",
+          "url": "https://proton.me/blog/feed.xml",
+          "site": "https://proton.me/blog",
+          "about": "Privacy news and product updates from the maker of Proton Mail."
+        },
+        {
+          "title": "Open Rights Group",
+          "url": "https://www.openrightsgroup.org/rss.xml",
+          "site": "https://www.openrightsgroup.org/",
+          "about": "UK campaigns on privacy, data protection and free expression."
+        },
+        {
+          "title": "Tor Project Blog",
+          "url": "https://blog.torproject.org/feed.xml",
+          "site": "https://blog.torproject.org/",
+          "about": "Releases and news from the Tor anonymity network."
+        },
+        {
+          "title": "Schneier on Security",
+          "url": "https://www.schneier.com/feed/atom/",
+          "site": "https://www.schneier.com/",
+          "about": "Bruce Schneier's commentary on security, cryptography and policy."
+        },
+        {
+          "title": "DuckDuckGo Blog",
+          "url": "https://spreadprivacy.com/rss/",
+          "site": "https://spreadprivacy.com/",
+          "about": "Privacy tips and product news from DuckDuckGo."
+        }
+      ],
+      "subreddits": [
+        "privacy",
+        "degoogle",
+        "PrivacyGuides"
+      ]
+    },
+    {
+      "id": "business-economics",
+      "name": "Business & Economics",
+      "keywords": [
+        "business",
+        "economics",
+        "economy",
+        "markets",
+        "finance news",
+        "stocks",
+        "inflation",
+        "jobs",
+        "companies",
+        "trade",
+        "entrepreneurship",
+        "interest rates"
+      ],
+      "feeds": [
+        {
+          "title": "BBC News - Business",
+          "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+          "site": "https://www.bbc.com/news/business",
+          "about": "Business and economy news from the BBC."
+        },
+        {
+          "title": "NPR Business",
+          "url": "https://feeds.npr.org/1006/rss.xml",
+          "site": "https://www.npr.org/sections/business/",
+          "about": "Business and economics reporting from NPR."
+        },
+        {
+          "title": "CNBC - Top News",
+          "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "site": "https://www.cnbc.com/",
+          "about": "Market moves and business headlines from CNBC."
+        },
+        {
+          "title": "MarketWatch - Top Stories",
+          "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+          "site": "https://www.marketwatch.com/",
+          "about": "Stock market, economy and personal investing news."
+        },
+        {
+          "title": "The Guardian - Business",
+          "url": "https://www.theguardian.com/business/rss",
+          "site": "https://www.theguardian.com/business",
+          "about": "Business, markets and economics coverage from The Guardian."
+        },
+        {
+          "title": "Planet Money",
+          "url": "https://feeds.npr.org/510289/podcast.xml",
+          "site": "https://www.npr.org/sections/money/",
+          "about": "NPR's podcast explaining the economy through stories."
+        },
+        {
+          "title": "Marginal Revolution",
+          "url": "https://marginalrevolution.com/feed",
+          "site": "https://marginalrevolution.com/",
+          "about": "Daily economics blogging from Tyler Cowen and Alex Tabarrok."
+        },
+        {
+          "title": "Liberty Street Economics",
+          "url": "https://libertystreeteconomics.newyorkfed.org/feed/",
+          "site": "https://libertystreeteconomics.newyorkfed.org/",
+          "about": "Research-based posts by New York Fed economists."
+        },
+        {
+          "title": "Noahpinion",
+          "url": "https://www.noahpinion.blog/feed",
+          "site": "https://www.noahpinion.blog/",
+          "about": "Noah Smith's essays on economics, technology and policy."
+        },
+        {
+          "title": "Fast Company",
+          "url": "https://www.fastcompany.com/latest/rss",
+          "site": "https://www.fastcompany.com/",
+          "about": "Business coverage focused on innovation, leadership and design."
+        },
+        {
+          "title": "Sky News - Business",
+          "url": "https://feeds.skynews.com/feeds/rss/business.xml",
+          "site": "https://news.sky.com/business",
+          "about": "Business headlines from the UK broadcaster Sky News."
+        },
+        {
+          "title": "CBC News - Business",
+          "url": "https://www.cbc.ca/webfeed/rss/rss-business",
+          "site": "https://www.cbc.ca/news/business",
+          "about": "Business and economic news from Canada's public broadcaster."
+        },
+        {
+          "title": "Econbrowser",
+          "url": "https://econbrowser.com/feed",
+          "site": "https://econbrowser.com/",
+          "about": "Macroeconomic analysis by economists James Hamilton and Menzie Chinn."
+        },
+        {
+          "title": "Federal Reserve Press Releases",
+          "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+          "site": "https://www.federalreserve.gov/",
+          "about": "Official statements and policy announcements from the US Federal Reserve."
+        }
+      ],
+      "subreddits": [
+        "business",
+        "Economics",
+        "economy",
+        "smallbusiness",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "personal-finance",
+      "name": "Personal Finance",
+      "keywords": [
+        "money",
+        "budgeting",
+        "saving",
+        "investing",
+        "retirement",
+        "fire",
+        "financial independence",
+        "debt",
+        "credit cards",
+        "index funds",
+        "frugal",
+        "taxes",
+        "mortgage"
+      ],
+      "feeds": [
+        {
+          "title": "NerdWallet",
+          "url": "https://www.nerdwallet.com/blog/feed/",
+          "site": "https://www.nerdwallet.com/",
+          "about": "Explainers on credit cards, loans, saving and investing."
+        },
+        {
+          "title": "Kiplinger",
+          "url": "https://www.kiplinger.com/feeds.xml",
+          "site": "https://www.kiplinger.com/",
+          "about": "Personal finance advice on taxes, retirement and investing."
+        },
+        {
+          "title": "A Wealth of Common Sense",
+          "url": "https://awealthofcommonsense.com/feed/",
+          "site": "https://awealthofcommonsense.com/",
+          "about": "Ben Carlson on investing, markets and personal finance with historical context."
+        },
+        {
+          "title": "The White Coat Investor",
+          "url": "https://www.whitecoatinvestor.com/feed/",
+          "site": "https://www.whitecoatinvestor.com/",
+          "about": "Financial planning and investing advice aimed at high-income professionals."
+        },
+        {
+          "title": "Financial Samurai",
+          "url": "https://www.financialsamurai.com/feed/",
+          "site": "https://www.financialsamurai.com/",
+          "about": "Essays on saving, real estate and early retirement."
+        },
+        {
+          "title": "Afford Anything",
+          "url": "https://affordanything.com/feed/",
+          "site": "https://affordanything.com/",
+          "about": "Paula Pant on financial independence, investing and life choices."
+        },
+        {
+          "title": "Humble Dollar",
+          "url": "https://humbledollar.com/feed/",
+          "site": "https://humbledollar.com/",
+          "about": "Thoughtful personal finance writing from Jonathan Clements and contributors."
+        },
+        {
+          "title": "Monevator",
+          "url": "https://monevator.com/feed/",
+          "site": "https://monevator.com/",
+          "about": "UK-focused passive investing and financial independence blog."
+        },
+        {
+          "title": "Of Dollars And Data",
+          "url": "https://ofdollarsanddata.com/feed/",
+          "site": "https://ofdollarsanddata.com/",
+          "about": "Data-driven essays on investing and wealth."
+        },
+        {
+          "title": "The Guardian - Money",
+          "url": "https://www.theguardian.com/money/rss",
+          "site": "https://www.theguardian.com/money",
+          "about": "Consumer and personal finance news from The Guardian."
+        },
+        {
+          "title": "The College Investor",
+          "url": "https://thecollegeinvestor.com/feed/",
+          "site": "https://thecollegeinvestor.com/",
+          "about": "Money advice on student loans, investing and early career finances."
+        },
+        {
+          "title": "CNBC - Personal Finance",
+          "url": "https://www.cnbc.com/id/21324812/device/rss/rss.html",
+          "site": "https://www.cnbc.com/personal-finance/",
+          "about": "CNBC's personal finance reporting."
+        },
+        {
+          "title": "Mr. Money Mustache",
+          "url": "https://www.mrmoneymustache.com/feed/",
+          "site": "https://www.mrmoneymustache.com/",
+          "about": "Frugality and early retirement essays from the FIRE movement's best-known blogger."
+        }
+      ],
+      "subreddits": [
+        "personalfinance",
+        "financialindependence",
+        "Bogleheads",
+        "povertyfinance",
+        "UKPersonalFinance"
+      ]
+    },
+    {
+      "id": "health-medicine",
+      "name": "Health & Medicine",
+      "keywords": [
+        "health",
+        "medicine",
+        "medical news",
+        "public health",
+        "disease",
+        "nutrition",
+        "mental health",
+        "healthcare",
+        "wellness",
+        "vaccines",
+        "doctors",
+        "research studies"
+      ],
+      "feeds": [
+        {
+          "title": "STAT",
+          "url": "https://www.statnews.com/feed/",
+          "site": "https://www.statnews.com/",
+          "about": "Reporting on health, medicine and the life sciences industry."
+        },
+        {
+          "title": "KFF Health News",
+          "url": "https://kffhealthnews.org/feed/",
+          "site": "https://kffhealthnews.org/",
+          "about": "Nonprofit newsroom covering health policy and healthcare costs."
+        },
+        {
+          "title": "NPR - Health",
+          "url": "https://feeds.npr.org/1128/rss.xml",
+          "site": "https://www.npr.org/sections/health/",
+          "about": "Health and medical stories from NPR."
+        },
+        {
+          "title": "BBC News - Health",
+          "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+          "site": "https://www.bbc.com/news/health",
+          "about": "Health news from the BBC."
+        },
+        {
+          "title": "Medical Xpress",
+          "url": "https://medicalxpress.com/rss-feed/",
+          "site": "https://medicalxpress.com/",
+          "about": "Medical research news from universities and journals."
+        },
+        {
+          "title": "ScienceDaily - Health & Medicine",
+          "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+          "site": "https://www.sciencedaily.com/news/health_medicine/",
+          "about": "Research news on health and medicine."
+        },
+        {
+          "title": "WHO News",
+          "url": "https://www.who.int/rss-feeds/news-english.xml",
+          "site": "https://www.who.int/news",
+          "about": "News releases from the World Health Organization."
+        },
+        {
+          "title": "Science-Based Medicine",
+          "url": "https://sciencebasedmedicine.org/feed/",
+          "site": "https://sciencebasedmedicine.org/",
+          "about": "Physicians and scientists evaluating medical claims against the evidence."
+        },
+        {
+          "title": "Your Local Epidemiologist",
+          "url": "https://yourlocalepidemiologist.substack.com/feed",
+          "site": "https://yourlocalepidemiologist.substack.com/",
+          "about": "Katelyn Jetelina translating public health science for everyday readers."
+        },
+        {
+          "title": "The Guardian - Health",
+          "url": "https://www.theguardian.com/society/health/rss",
+          "site": "https://www.theguardian.com/society/health",
+          "about": "Health and healthcare reporting from The Guardian."
+        },
+        {
+          "title": "Ground Truths",
+          "url": "https://erictopol.substack.com/feed",
+          "site": "https://erictopol.substack.com/",
+          "about": "Cardiologist Eric Topol on new medical research."
+        },
+        {
+          "title": "The Conversation - Health",
+          "url": "https://theconversation.com/us/health/articles.atom",
+          "site": "https://theconversation.com/us/health",
+          "about": "Health and medicine explained by the researchers and clinicians who study it."
+        }
+      ],
+      "subreddits": [
+        "Health",
+        "medicine",
+        "AskDocs",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "fitness-running",
+      "name": "Fitness & Running",
+      "keywords": [
+        "fitness",
+        "running",
+        "exercise",
+        "workout",
+        "marathon",
+        "strength training",
+        "gym",
+        "weightlifting",
+        "trail running",
+        "triathlon",
+        "cycling",
+        "training plans",
+        "jogging"
+      ],
+      "feeds": [
+        {
+          "title": "iRunFar",
+          "url": "https://www.irunfar.com/feed",
+          "site": "https://www.irunfar.com/",
+          "about": "Trail and ultrarunning race coverage, interviews and gear reviews."
+        },
+        {
+          "title": "Canadian Running",
+          "url": "https://runningmagazine.ca/feed/",
+          "site": "https://runningmagazine.ca/",
+          "about": "Running news, training advice and race coverage."
+        },
+        {
+          "title": "DC Rainmaker",
+          "url": "https://www.dcrainmaker.com/feed",
+          "site": "https://www.dcrainmaker.com/",
+          "about": "Exhaustive reviews of GPS watches, bike trainers and sports tech."
+        },
+        {
+          "title": "Marathon Handbook",
+          "url": "https://marathonhandbook.com/feed/",
+          "site": "https://marathonhandbook.com/",
+          "about": "Training plans and advice for runners of every level."
+        },
+        {
+          "title": "Stronger By Science",
+          "url": "https://www.strongerbyscience.com/feed/",
+          "site": "https://www.strongerbyscience.com/",
+          "about": "Evidence-based articles on strength training and nutrition."
+        },
+        {
+          "title": "Runner's World",
+          "url": "https://www.runnersworld.com/rss/all.xml/",
+          "site": "https://www.runnersworld.com/",
+          "about": "Training, nutrition and gear advice from the running magazine."
+        },
+        {
+          "title": "Men's Health - Fitness",
+          "url": "https://www.menshealth.com/rss/all.xml/",
+          "site": "https://www.menshealth.com/",
+          "about": "Workouts, nutrition and health advice."
+        },
+        {
+          "title": "Women's Health",
+          "url": "https://www.womenshealthmag.com/rss/all.xml/",
+          "site": "https://www.womenshealthmag.com/",
+          "about": "Fitness routines, nutrition and wellbeing advice."
+        },
+        {
+          "title": "LetsRun.com",
+          "url": "https://www.letsrun.com/feed/",
+          "site": "https://www.letsrun.com/",
+          "about": "Elite track and road running news."
+        },
+        {
+          "title": "Believe in the Run",
+          "url": "https://believeintherun.com/feed/",
+          "site": "https://believeintherun.com/",
+          "about": "Running shoe and gear reviews by runners."
+        },
+        {
+          "title": "Nerd Fitness",
+          "url": "https://www.nerdfitness.com/blog/feed/",
+          "site": "https://www.nerdfitness.com/",
+          "about": "Beginner-friendly fitness and habit-building advice."
+        },
+        {
+          "title": "Trail Runner",
+          "url": "https://www.trailrunnermag.com/feed/",
+          "site": "https://www.trailrunnermag.com/",
+          "about": "Trail running training, races and gear."
+        },
+        {
+          "title": "Triathlete",
+          "url": "https://www.triathlete.com/feed/",
+          "site": "https://www.triathlete.com/",
+          "about": "Triathlon training, racing and gear coverage."
+        },
+        {
+          "title": "Fitness Volt",
+          "url": "https://fitnessvolt.com/feed/",
+          "site": "https://fitnessvolt.com/",
+          "about": "Bodybuilding and strength training guides and news."
+        }
+      ],
+      "subreddits": [
+        "Fitness",
+        "running",
+        "bodyweightfitness",
+        "weightroom",
+        "AdvancedRunning"
+      ]
+    },
+    {
+      "id": "food-cooking",
+      "name": "Food & Cooking",
+      "keywords": [
+        "food",
+        "cooking",
+        "recipes",
+        "baking",
+        "dinner ideas",
+        "meal prep",
+        "vegetarian",
+        "vegan",
+        "restaurants",
+        "kitchen",
+        "home cooking",
+        "desserts"
+      ],
+      "feeds": [
+        {
+          "title": "Smitten Kitchen",
+          "url": "https://smittenkitchen.com/feed/",
+          "site": "https://smittenkitchen.com/",
+          "about": "Tested home recipes from Deb Perelman's small New York kitchen."
+        },
+        {
+          "title": "Budget Bytes",
+          "url": "https://www.budgetbytes.com/feed/",
+          "site": "https://www.budgetbytes.com/",
+          "about": "Inexpensive recipes with a cost breakdown for each dish."
+        },
+        {
+          "title": "RecipeTin Eats",
+          "url": "https://www.recipetineats.com/feed/",
+          "site": "https://www.recipetineats.com/",
+          "about": "Reliable everyday recipes from Nagi Maehashi in Sydney."
+        },
+        {
+          "title": "Bon Appétit",
+          "url": "https://www.bonappetit.com/feed/rss",
+          "site": "https://www.bonappetit.com/",
+          "about": "Recipes, cooking techniques and food culture."
+        },
+        {
+          "title": "Eater",
+          "url": "https://www.eater.com/rss/index.xml",
+          "site": "https://www.eater.com/",
+          "about": "Restaurant news, dining guides and food culture."
+        },
+        {
+          "title": "The Kitchn",
+          "url": "https://www.thekitchn.com/main.rss",
+          "site": "https://www.thekitchn.com/",
+          "about": "Everyday recipes, kitchen tips and cooking how-tos."
+        },
+        {
+          "title": "Minimalist Baker",
+          "url": "https://minimalistbaker.com/feed/",
+          "site": "https://minimalistbaker.com/",
+          "about": "Simple plant-based recipes with few ingredients."
+        },
+        {
+          "title": "Sally's Baking Addiction",
+          "url": "https://sallysbakingaddiction.com/feed/",
+          "site": "https://sallysbakingaddiction.com/",
+          "about": "Detailed baking recipes with step-by-step photos."
+        },
+        {
+          "title": "Just One Cookbook",
+          "url": "https://www.justonecookbook.com/feed/",
+          "site": "https://www.justonecookbook.com/",
+          "about": "Japanese home cooking recipes explained step by step."
+        },
+        {
+          "title": "The Woks of Life",
+          "url": "https://thewoksoflife.com/feed/",
+          "site": "https://thewoksoflife.com/",
+          "about": "A family sharing Chinese recipes, from takeout favorites to regional dishes."
+        },
+        {
+          "title": "Love and Lemons",
+          "url": "https://www.loveandlemons.com/feed/",
+          "site": "https://www.loveandlemons.com/",
+          "about": "Seasonal vegetarian recipes."
+        },
+        {
+          "title": "Cookie and Kate",
+          "url": "https://cookieandkate.com/feed/",
+          "site": "https://cookieandkate.com/",
+          "about": "Whole-food vegetarian recipes."
+        },
+        {
+          "title": "Pinch of Yum",
+          "url": "https://pinchofyum.com/feed",
+          "site": "https://pinchofyum.com/",
+          "about": "Approachable recipes for weeknight dinners."
+        },
+        {
+          "title": "The Guardian - Food",
+          "url": "https://www.theguardian.com/food/rss",
+          "site": "https://www.theguardian.com/food",
+          "about": "Recipes, restaurant reviews and food writing from The Guardian."
+        },
+        {
+          "title": "David Lebovitz",
+          "url": "https://www.davidlebovitz.com/feed/",
+          "site": "https://www.davidlebovitz.com/",
+          "about": "Pastry chef David Lebovitz on desserts and life in Paris."
+        }
+      ],
+      "subreddits": [
+        "Cooking",
+        "recipes",
+        "AskCulinary",
+        "Baking",
+        "EatCheapAndHealthy"
+      ]
+    },
+    {
+      "id": "gardening",
+      "name": "Gardening",
+      "keywords": [
+        "garden",
+        "gardening",
+        "plants",
+        "vegetable garden",
+        "houseplants",
+        "landscaping",
+        "growing food",
+        "flowers",
+        "composting",
+        "permaculture",
+        "seeds",
+        "lawn care",
+        "homesteading"
+      ],
+      "feeds": [
+        {
+          "title": "Gardenista",
+          "url": "https://www.gardenista.com/feed/",
+          "site": "https://www.gardenista.com/",
+          "about": "Garden design ideas, plant guides and outdoor living."
+        },
+        {
+          "title": "Gardener's Path",
+          "url": "https://gardenerspath.com/feed/",
+          "site": "https://gardenerspath.com/",
+          "about": "Detailed growing guides for edibles and ornamentals."
+        },
+        {
+          "title": "The Guardian - Gardens",
+          "url": "https://www.theguardian.com/lifeandstyle/gardens/rss",
+          "site": "https://www.theguardian.com/lifeandstyle/gardens",
+          "about": "Gardening columns and advice from The Guardian."
+        },
+        {
+          "title": "BBC Gardeners' World Magazine",
+          "url": "https://www.gardenersworld.com/feed/",
+          "site": "https://www.gardenersworld.com/",
+          "about": "Seasonal gardening advice from the BBC magazine."
+        },
+        {
+          "title": "Savvy Gardening",
+          "url": "https://savvygardening.com/feed/",
+          "site": "https://savvygardening.com/",
+          "about": "Vegetable and flower growing tips from experienced gardeners."
+        },
+        {
+          "title": "Laidback Gardener",
+          "url": "https://laidbackgardener.blog/feed/",
+          "site": "https://laidbackgardener.blog/",
+          "about": "Daily low-effort gardening tips from horticulturist Larry Hodgson."
+        },
+        {
+          "title": "Gardening Know How",
+          "url": "https://www.gardeningknowhow.com/feeds.xml",
+          "site": "https://www.gardeningknowhow.com/",
+          "about": "Plant care guides and seasonal tips for indoor and outdoor gardeners."
+        },
+        {
+          "title": "Garden Myths",
+          "url": "https://www.gardenmyths.com/feed/",
+          "site": "https://www.gardenmyths.com/",
+          "about": "Science-based debunking of common gardening advice."
+        },
+        {
+          "title": "Fine Gardening",
+          "url": "https://www.finegardening.com/feed",
+          "site": "https://www.finegardening.com/",
+          "about": "Plant profiles and design ideas for home gardeners."
+        },
+        {
+          "title": "Garden Betty",
+          "url": "https://gardenbetty.com/feed/",
+          "site": "https://www.gardenbetty.com/",
+          "about": "Organic gardening, backyard chickens and homegrown food."
+        },
+        {
+          "title": "The Middle-Sized Garden",
+          "url": "https://www.themiddlesizedgarden.co.uk/feed/",
+          "site": "https://www.themiddlesizedgarden.co.uk/",
+          "about": "Ideas and practical tips for ordinary-sized gardens."
+        },
+        {
+          "title": "Mother Earth News",
+          "url": "https://www.motherearthnews.com/feed/",
+          "site": "https://www.motherearthnews.com/",
+          "about": "Homesteading, organic gardening and self-reliance."
+        },
+        {
+          "title": "Homestead and Chill",
+          "url": "https://homesteadandchill.com/feed/",
+          "site": "https://homesteadandchill.com/",
+          "about": "Organic gardening, composting and simple homestead projects."
+        },
+        {
+          "title": "Empress of Dirt",
+          "url": "https://empressofdirt.net/feed/",
+          "site": "https://empressofdirt.net/",
+          "about": "Garden projects and plant care advice."
+        }
+      ],
+      "subreddits": [
+        "gardening",
+        "vegetablegardening",
+        "houseplants",
+        "permaculture",
+        "succulents"
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "keywords": [
+        "travel",
+        "vacation",
+        "trips",
+        "tourism",
+        "flights",
+        "airlines",
+        "hotels",
+        "backpacking",
+        "travel tips",
+        "points and miles",
+        "destinations",
+        "road trips",
+        "cruises"
+      ],
+      "feeds": [
+        {
+          "title": "Atlas Obscura",
+          "url": "https://www.atlasobscura.com/feeds/latest",
+          "site": "https://www.atlasobscura.com/",
+          "about": "Curious places, hidden wonders and unusual history around the world."
+        },
+        {
+          "title": "Nomadic Matt",
+          "url": "https://www.nomadicmatt.com/feed/",
+          "site": "https://www.nomadicmatt.com/",
+          "about": "Budget travel guides and tips from a long-time backpacker."
+        },
+        {
+          "title": "The Points Guy",
+          "url": "https://thepointsguy.com/feed",
+          "site": "https://thepointsguy.com/",
+          "about": "Airline, hotel and credit card points news and travel deals."
+        },
+        {
+          "title": "One Mile at a Time",
+          "url": "https://onemileatatime.com/feed/",
+          "site": "https://onemileatatime.com/",
+          "about": "Airline and hotel reviews and frequent flyer news."
+        },
+        {
+          "title": "Condé Nast Traveler",
+          "url": "https://www.cntraveler.com/feed/rss",
+          "site": "https://www.cntraveler.com/",
+          "about": "Destination guides, hotel picks and travel features."
+        },
+        {
+          "title": "The Guardian - Travel",
+          "url": "https://www.theguardian.com/travel/rss",
+          "site": "https://www.theguardian.com/travel",
+          "about": "Travel features, tips and destination ideas from The Guardian."
+        },
+        {
+          "title": "View from the Wing",
+          "url": "https://viewfromthewing.com/feed/",
+          "site": "https://viewfromthewing.com/",
+          "about": "Commentary on airlines, loyalty programs and travel industry news."
+        },
+        {
+          "title": "Simple Flying",
+          "url": "https://simpleflying.com/feed/",
+          "site": "https://simpleflying.com/",
+          "about": "Aviation and airline industry news."
+        },
+        {
+          "title": "Matador Network",
+          "url": "https://matadornetwork.com/feed/",
+          "site": "https://matadornetwork.com/",
+          "about": "Travel stories, guides and culture from around the world."
+        },
+        {
+          "title": "Travel Off Path",
+          "url": "https://www.traveloffpath.com/feed/",
+          "site": "https://www.traveloffpath.com/",
+          "about": "Travel news on entry rules, flights and trending destinations."
+        },
+        {
+          "title": "Adventurous Kate",
+          "url": "https://www.adventurouskate.com/feed/",
+          "site": "https://www.adventurouskate.com/",
+          "about": "Solo travel advice, especially for women travelling alone."
+        },
+        {
+          "title": "Skift",
+          "url": "https://skift.com/feed/",
+          "site": "https://skift.com/",
+          "about": "News and analysis about the travel industry."
+        }
+      ],
+      "subreddits": [
+        "travel",
+        "solotravel",
+        "TravelHacks",
+        "onebag",
+        "awardtravel"
+      ]
+    },
+    {
+      "id": "outdoors-hiking",
+      "name": "Outdoors & Hiking",
+      "keywords": [
+        "hiking",
+        "outdoors",
+        "backpacking",
+        "camping",
+        "trails",
+        "thru-hiking",
+        "mountains",
+        "climbing",
+        "ultralight",
+        "national parks",
+        "gear reviews",
+        "mountaineering",
+        "trekking"
+      ],
+      "feeds": [
+        {
+          "title": "The Trek",
+          "url": "https://thetrek.co/feed/",
+          "site": "https://thetrek.co/",
+          "about": "Thru-hiking stories, trail guides and gear advice."
+        },
+        {
+          "title": "Andrew Skurka",
+          "url": "https://andrewskurka.com/feed/",
+          "site": "https://andrewskurka.com/",
+          "about": "Backpacking technique and gear thinking from a long-distance hiker."
+        },
+        {
+          "title": "CleverHiker",
+          "url": "https://www.cleverhiker.com/feed/",
+          "site": "https://www.cleverhiker.com/",
+          "about": "Lightweight backpacking gear guides and trip tips."
+        },
+        {
+          "title": "Adventure Journal",
+          "url": "https://www.adventure-journal.com/feed/",
+          "site": "https://www.adventure-journal.com/",
+          "about": "Stories and essays about outdoor adventure."
+        },
+        {
+          "title": "GearJunkie",
+          "url": "https://gearjunkie.com/feed",
+          "site": "https://gearjunkie.com/",
+          "about": "Outdoor gear reviews and adventure news."
+        },
+        {
+          "title": "Explorersweb",
+          "url": "https://explorersweb.com/feed/",
+          "site": "https://explorersweb.com/",
+          "about": "News on mountaineering, polar trips and big expeditions."
+        },
+        {
+          "title": "Gripped",
+          "url": "https://gripped.com/feed/",
+          "site": "https://gripped.com/",
+          "about": "Climbing news, route reports and athlete stories."
+        },
+        {
+          "title": "Climbing",
+          "url": "https://www.climbing.com/feed/",
+          "site": "https://www.climbing.com/",
+          "about": "Rock climbing news, skills and gear."
+        },
+        {
+          "title": "Backpacker",
+          "url": "https://www.backpacker.com/feed/",
+          "site": "https://www.backpacker.com/",
+          "about": "Trail guides, skills and gear for hikers and backpackers."
+        },
+        {
+          "title": "Bikepacking.com",
+          "url": "https://bikepacking.com/feed/",
+          "site": "https://bikepacking.com/",
+          "about": "Routes, gear and stories for multi-day bike trips."
+        },
+        {
+          "title": "Halfway Anywhere",
+          "url": "https://www.halfwayanywhere.com/feed/",
+          "site": "https://www.halfwayanywhere.com/",
+          "about": "Thru-hiking guides and long-trail survey results."
+        },
+        {
+          "title": "Outside",
+          "url": "https://www.outsideonline.com/feed/",
+          "site": "https://www.outsideonline.com/",
+          "about": "Outdoor adventure, travel and fitness journalism."
+        },
+        {
+          "title": "Appalachian Mountain Club",
+          "url": "https://www.outdoors.org/feed/",
+          "site": "https://www.outdoors.org/",
+          "about": "Trail news and conservation stories from the AMC."
+        },
+        {
+          "title": "Alpinist",
+          "url": "https://alpinist.com/feed/",
+          "site": "https://alpinist.com/",
+          "about": "Climbing and alpinism news, history and long reads."
+        }
+      ],
+      "subreddits": [
+        "hiking",
+        "CampingandHiking",
+        "Ultralight",
+        "backpacking",
+        "climbing"
+      ]
+    },
+    {
+      "id": "photography",
+      "name": "Photography",
+      "keywords": [
+        "photography",
+        "cameras",
+        "photo",
+        "lenses",
+        "film photography",
+        "street photography",
+        "landscape photography",
+        "photo editing",
+        "lightroom",
+        "mirrorless",
+        "dslr",
+        "photographers"
+      ],
+      "feeds": [
+        {
+          "title": "PetaPixel",
+          "url": "https://petapixel.com/feed/",
+          "site": "https://petapixel.com/",
+          "about": "Photography news, camera reviews and photographer stories."
+        },
+        {
+          "title": "DPReview",
+          "url": "https://www.dpreview.com/feed/",
+          "site": "https://www.dpreview.com/",
+          "about": "Camera and lens news with detailed reviews."
+        },
+        {
+          "title": "Fstoppers",
+          "url": "https://fstoppers.com/feed",
+          "site": "https://fstoppers.com/",
+          "about": "Tutorials, gear reviews and opinion for photographers and filmmakers."
+        },
+        {
+          "title": "Digital Photography School",
+          "url": "https://digital-photography-school.com/feed/",
+          "site": "https://digital-photography-school.com/",
+          "about": "Tips and tutorials for improving your photography."
+        },
+        {
+          "title": "Photography Life",
+          "url": "https://photographylife.com/feed",
+          "site": "https://photographylife.com/",
+          "about": "In-depth lens reviews and photography technique guides."
+        },
+        {
+          "title": "The Phoblographer",
+          "url": "https://www.thephoblographer.com/feed/",
+          "site": "https://www.thephoblographer.com/",
+          "about": "Gear reviews and photographer interviews."
+        },
+        {
+          "title": "Digital Camera World",
+          "url": "https://www.digitalcameraworld.com/feeds.xml",
+          "site": "https://www.digitalcameraworld.com/",
+          "about": "Camera news, buying guides and photography techniques."
+        },
+        {
+          "title": "Amateur Photographer",
+          "url": "https://amateurphotographer.com/feed/",
+          "site": "https://www.amateurphotographer.com/",
+          "about": "UK magazine with reviews, technique and photography news."
+        },
+        {
+          "title": "35mmc",
+          "url": "https://www.35mmc.com/feed/",
+          "site": "https://www.35mmc.com/",
+          "about": "Film photography reviews and stories written by the community."
+        },
+        {
+          "title": "Kosmo Foto",
+          "url": "https://kosmofoto.com/feed/",
+          "site": "https://kosmofoto.com/",
+          "about": "News about film photography, film stocks and analogue cameras."
+        },
+        {
+          "title": "Photo Rumors",
+          "url": "https://photorumors.com/feed/",
+          "site": "https://photorumors.com/",
+          "about": "Camera industry rumours, leaks and announcements."
+        },
+        {
+          "title": "Light Stalking",
+          "url": "https://www.lightstalking.com/feed/",
+          "site": "https://www.lightstalking.com/",
+          "about": "Photography tips, challenges and inspiration."
+        },
+        {
+          "title": "Shotkit",
+          "url": "https://shotkit.com/feed/",
+          "site": "https://shotkit.com/",
+          "about": "Camera gear guides and photographers' kit breakdowns."
+        },
+        {
+          "title": "Nikon Rumors",
+          "url": "https://nikonrumors.com/feed/",
+          "site": "https://nikonrumors.com/",
+          "about": "News and rumours about Nikon cameras and lenses."
+        },
+        {
+          "title": "Fuji Rumors",
+          "url": "https://www.fujirumors.com/feed/",
+          "site": "https://www.fujirumors.com/",
+          "about": "News and rumours about Fujifilm cameras."
+        }
+      ],
+      "subreddits": [
+        "photography",
+        "AskPhotography",
+        "analog",
+        "itookapicture",
+        "photocritique"
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "keywords": [
+        "design",
+        "graphic design",
+        "ux",
+        "ui design",
+        "web design",
+        "typography",
+        "branding",
+        "product design",
+        "industrial design",
+        "architecture",
+        "interior design",
+        "user experience",
+        "logos"
+      ],
+      "feeds": [
+        {
+          "title": "Dezeen",
+          "url": "https://www.dezeen.com/feed/",
+          "site": "https://www.dezeen.com/",
+          "about": "Architecture, interiors and product design news."
+        },
+        {
+          "title": "designboom",
+          "url": "https://www.designboom.com/feed/",
+          "site": "https://www.designboom.com/",
+          "about": "Architecture, design and art from around the world."
+        },
+        {
+          "title": "Creative Bloq",
+          "url": "https://www.creativebloq.com/feeds.xml",
+          "site": "https://www.creativebloq.com/",
+          "about": "Graphic design, illustration and creative software news and tutorials."
+        },
+        {
+          "title": "Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/feed/",
+          "site": "https://www.smashingmagazine.com/",
+          "about": "Articles on front-end development, accessibility and UX."
+        },
+        {
+          "title": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/feed/rss/",
+          "site": "https://www.nngroup.com/",
+          "about": "Research-backed usability and UX articles."
+        },
+        {
+          "title": "Core77",
+          "url": "https://feeds.feedburner.com/core77/blog",
+          "site": "https://www.core77.com/",
+          "about": "Industrial design news, tools and process stories."
+        },
+        {
+          "title": "Design Milk",
+          "url": "https://design-milk.com/feed/",
+          "site": "https://design-milk.com/",
+          "about": "Modern furniture, interiors, art and product design."
+        },
+        {
+          "title": "Yanko Design",
+          "url": "https://www.yankodesign.com/feed/",
+          "site": "https://www.yankodesign.com/",
+          "about": "Product design concepts and industrial design news."
+        },
+        {
+          "title": "UX Collective",
+          "url": "https://uxdesign.cc/feed",
+          "site": "https://uxdesign.cc/",
+          "about": "Essays on user experience and product design."
+        },
+        {
+          "title": "Sidebar",
+          "url": "https://sidebar.io/feed.xml",
+          "site": "https://sidebar.io/",
+          "about": "Five hand-picked design links each day."
+        },
+        {
+          "title": "ArchDaily",
+          "url": "https://feeds.feedburner.com/Archdaily",
+          "site": "https://www.archdaily.com/",
+          "about": "Architecture projects, news and building products."
+        },
+        {
+          "title": "Wallpaper*",
+          "url": "https://www.wallpaper.com/feeds.xml",
+          "site": "https://www.wallpaper.com/",
+          "about": "Design, architecture, fashion and interiors."
+        },
+        {
+          "title": "Abduzeedo",
+          "url": "https://abduzeedo.com/rss.xml",
+          "site": "https://abduzeedo.com/",
+          "about": "Daily inspiration in graphic design, branding and illustration."
+        },
+        {
+          "title": "The Dieline",
+          "url": "https://thedieline.com/feed/",
+          "site": "https://thedieline.com/",
+          "about": "Packaging design news and projects."
+        }
+      ],
+      "subreddits": [
+        "Design",
+        "graphic_design",
+        "web_design",
+        "UI_Design",
+        "userexperience",
+        "logodesign"
+      ]
+    },
+    {
+      "id": "art",
+      "name": "Art",
+      "keywords": [
+        "art",
+        "contemporary art",
+        "painting",
+        "drawing",
+        "sculpture",
+        "museums",
+        "galleries",
+        "artists",
+        "illustration",
+        "art history",
+        "exhibitions",
+        "fine art",
+        "street art"
+      ],
+      "feeds": [
+        {
+          "title": "Colossal",
+          "url": "https://www.thisiscolossal.com/feed/",
+          "site": "https://www.thisiscolossal.com/",
+          "about": "Contemporary art, craft and visual culture from around the world."
+        },
+        {
+          "title": "Hyperallergic",
+          "url": "https://hyperallergic.com/rss/",
+          "site": "https://hyperallergic.com/",
+          "about": "Independent art news, reviews and criticism."
+        },
+        {
+          "title": "ARTnews",
+          "url": "https://www.artnews.com/feed/",
+          "site": "https://www.artnews.com/",
+          "about": "Art world news, market reports and exhibition coverage."
+        },
+        {
+          "title": "Artnet News",
+          "url": "https://news.artnet.com/feed",
+          "site": "https://news.artnet.com/",
+          "about": "News about artists, auctions, museums and the art market."
+        },
+        {
+          "title": "Art in America",
+          "url": "https://www.artnews.com/c/art-in-america/feed/",
+          "site": "https://www.artnews.com/c/art-in-america/",
+          "about": "Criticism, artist interviews and exhibition reviews from the American art magazine."
+        },
+        {
+          "title": "The Art Newspaper",
+          "url": "https://www.theartnewspaper.com/rss.xml",
+          "site": "https://www.theartnewspaper.com/",
+          "about": "International news on museums, exhibitions and the art trade."
+        },
+        {
+          "title": "The Guardian - Art and Design",
+          "url": "https://www.theguardian.com/artanddesign/rss",
+          "site": "https://www.theguardian.com/artanddesign",
+          "about": "Exhibition reviews and art news from The Guardian."
+        },
+        {
+          "title": "Smithsonian - Arts & Culture",
+          "url": "https://www.smithsonianmag.com/rss/arts-culture/",
+          "site": "https://www.smithsonianmag.com/arts-culture/",
+          "about": "Arts and culture stories from Smithsonian magazine."
+        },
+        {
+          "title": "My Modern Met",
+          "url": "https://mymodernmet.com/feed/",
+          "site": "https://mymodernmet.com/",
+          "about": "Creative projects, art history explainers and artist features."
+        },
+        {
+          "title": "Booooooom",
+          "url": "https://www.booooooom.com/feed/",
+          "site": "https://www.booooooom.com/",
+          "about": "Showcase of emerging artists, illustrators and photographers."
+        },
+        {
+          "title": "Open Culture",
+          "url": "https://www.openculture.com/feed",
+          "site": "https://www.openculture.com/",
+          "about": "Free cultural media, art history and creative curiosities."
+        },
+        {
+          "title": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/rss.xml",
+          "site": "https://publicdomainreview.org/",
+          "about": "Essays on forgotten art, books and images now in the public domain."
+        },
+        {
+          "title": "Lines and Colors",
+          "url": "https://linesandcolors.com/feed/",
+          "site": "https://linesandcolors.com/",
+          "about": "Appreciation of painting, drawing and illustration, from old masters to living artists."
+        },
+        {
+          "title": "TheCollector",
+          "url": "https://www.thecollector.com/rss/",
+          "site": "https://www.thecollector.com/",
+          "about": "Explainers on art history, artists and movements, alongside history and philosophy."
+        },
+        {
+          "title": "Muddy Colors",
+          "url": "https://muddycolors.com/feed/",
+          "site": "https://www.muddycolors.com/",
+          "about": "Working illustrators sharing process and fantasy art."
+        }
+      ],
+      "subreddits": [
+        "Art",
+        "ArtHistory",
+        "painting",
+        "drawing",
+        "museum"
+      ]
+    },
+    {
+      "id": "books-reading",
+      "name": "Books & Reading",
+      "keywords": [
+        "books",
+        "reading",
+        "book reviews",
+        "literature",
+        "novels",
+        "fiction",
+        "nonfiction",
+        "authors",
+        "book recommendations",
+        "publishing",
+        "fantasy books",
+        "sci-fi books",
+        "book club"
+      ],
+      "feeds": [
+        {
+          "title": "Literary Hub",
+          "url": "https://lithub.com/feed/",
+          "site": "https://lithub.com/",
+          "about": "Essays, interviews and news about books and writers."
+        },
+        {
+          "title": "Book Riot",
+          "url": "https://bookriot.com/feed/",
+          "site": "https://bookriot.com/",
+          "about": "Book recommendations, reading lists and publishing news."
+        },
+        {
+          "title": "The Guardian - Books",
+          "url": "https://www.theguardian.com/books/rss",
+          "site": "https://www.theguardian.com/books",
+          "about": "Book reviews, author interviews and literary news."
+        },
+        {
+          "title": "NPR Books",
+          "url": "https://feeds.npr.org/1032/rss.xml",
+          "site": "https://www.npr.org/books/",
+          "about": "Book reviews and author interviews from NPR."
+        },
+        {
+          "title": "Electric Literature",
+          "url": "https://electricliterature.com/feed/",
+          "site": "https://electricliterature.com/",
+          "about": "Nonprofit magazine of essays, fiction and reading lists."
+        },
+        {
+          "title": "The Paris Review",
+          "url": "https://www.theparisreview.org/blog/feed/",
+          "site": "https://www.theparisreview.org/daily",
+          "about": "Essays and literary commentary from the Paris Review's daily site."
+        },
+        {
+          "title": "Reactor",
+          "url": "https://reactormag.com/feed/",
+          "site": "https://reactormag.com/",
+          "about": "Science fiction and fantasy books, short fiction and reviews."
+        },
+        {
+          "title": "The Marginalian",
+          "url": "https://www.themarginalian.org/feed/",
+          "site": "https://www.themarginalian.org/",
+          "about": "Maria Popova's reflections on books, ideas and art."
+        },
+        {
+          "title": "Publishers Weekly",
+          "url": "https://www.publishersweekly.com/pw/feeds/recent/index.xml",
+          "site": "https://www.publishersweekly.com/",
+          "about": "Book industry news and prepublication reviews."
+        },
+        {
+          "title": "CrimeReads",
+          "url": "https://crimereads.com/feed/",
+          "site": "https://crimereads.com/",
+          "about": "Essays and recommendations about mystery, crime and thriller books."
+        },
+        {
+          "title": "Locus",
+          "url": "https://locusmag.com/feed/",
+          "site": "https://locusmag.com/",
+          "about": "News and reviews from the science fiction and fantasy field."
+        },
+        {
+          "title": "Modern Mrs Darcy",
+          "url": "https://modernmrsdarcy.com/feed/",
+          "site": "https://modernmrsdarcy.com/",
+          "about": "Reading lists and book recommendations from Anne Bogel."
+        },
+        {
+          "title": "Book Marks",
+          "url": "https://bookmarks.reviews/feed/",
+          "site": "https://bookmarks.reviews/",
+          "about": "Roundups of critics' reviews for new books."
+        },
+        {
+          "title": "Kirkus Reviews",
+          "url": "https://www.kirkusreviews.com/feeds/rss/",
+          "site": "https://www.kirkusreviews.com/",
+          "about": "Short professional reviews of new books."
+        },
+        {
+          "title": "Five Books",
+          "url": "https://fivebooks.com/feed/",
+          "site": "https://fivebooks.com/",
+          "about": "Experts recommend the five best books on a subject."
+        }
+      ],
+      "subreddits": [
+        "books",
+        "suggestmeabook",
+        "booksuggestions",
+        "Fantasy",
+        "printSF",
+        "literature"
+      ]
+    },
+    {
+      "id": "film-tv",
+      "name": "Film & TV",
+      "keywords": [
+        "movies",
+        "film",
+        "tv",
+        "television",
+        "tv shows",
+        "streaming",
+        "cinema",
+        "netflix",
+        "movie reviews",
+        "hollywood",
+        "box office",
+        "series",
+        "documentaries"
+      ],
+      "feeds": [
+        {
+          "title": "IndieWire",
+          "url": "https://www.indiewire.com/feed/",
+          "site": "https://www.indiewire.com/",
+          "about": "Film and TV news, reviews and awards coverage."
+        },
+        {
+          "title": "Variety",
+          "url": "https://variety.com/feed/",
+          "site": "https://variety.com/",
+          "about": "Entertainment industry news on film, TV and streaming."
+        },
+        {
+          "title": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/feed/",
+          "site": "https://www.hollywoodreporter.com/",
+          "about": "Hollywood business news, reviews and interviews."
+        },
+        {
+          "title": "Deadline",
+          "url": "https://deadline.com/feed/",
+          "site": "https://deadline.com/",
+          "about": "Breaking news on film and TV deals, casting and box office."
+        },
+        {
+          "title": "RogerEbert.com",
+          "url": "https://www.rogerebert.com/feed",
+          "site": "https://www.rogerebert.com/",
+          "about": "Film reviews and essays carrying on Roger Ebert's legacy."
+        },
+        {
+          "title": "/Film",
+          "url": "https://www.slashfilm.com/feed/",
+          "site": "https://www.slashfilm.com/",
+          "about": "Movie and TV news, reviews and features."
+        },
+        {
+          "title": "The A.V. Club",
+          "url": "https://www.avclub.com/rss.xml",
+          "site": "https://www.avclub.com/",
+          "about": "TV recaps, film reviews and pop culture coverage."
+        },
+        {
+          "title": "Den of Geek",
+          "url": "https://www.denofgeek.com/feed/",
+          "site": "https://www.denofgeek.com/",
+          "about": "Genre film and TV news, reviews and features."
+        },
+        {
+          "title": "The Guardian - Film",
+          "url": "https://www.theguardian.com/film/rss",
+          "site": "https://www.theguardian.com/film",
+          "about": "Film reviews, interviews and news from The Guardian."
+        },
+        {
+          "title": "The Guardian - Television",
+          "url": "https://www.theguardian.com/tv-and-radio/rss",
+          "site": "https://www.theguardian.com/tv-and-radio",
+          "about": "TV and radio reviews and news from The Guardian."
+        },
+        {
+          "title": "TVLine",
+          "url": "https://www.tvline.com/feed/",
+          "site": "https://tvline.com/",
+          "about": "TV news, scoops and episode recaps."
+        },
+        {
+          "title": "Collider",
+          "url": "https://collider.com/feed/",
+          "site": "https://collider.com/",
+          "about": "Movie and TV news, interviews and explainers."
+        },
+        {
+          "title": "What's on Netflix",
+          "url": "https://www.whats-on-netflix.com/feed/",
+          "site": "https://www.whats-on-netflix.com/",
+          "about": "What's coming to and leaving Netflix."
+        },
+        {
+          "title": "No Film School",
+          "url": "https://nofilmschool.com/feeds/content-types/article.rss",
+          "site": "https://nofilmschool.com/",
+          "about": "Filmmaking techniques, gear and industry advice."
+        }
+      ],
+      "subreddits": [
+        "movies",
+        "television",
+        "TrueFilm",
+        "MovieSuggestions",
+        "cinematography"
+      ]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "keywords": [
+        "music",
+        "albums",
+        "music news",
+        "concerts",
+        "indie music",
+        "hip hop",
+        "rock",
+        "jazz",
+        "electronic music",
+        "album reviews",
+        "new music",
+        "bands",
+        "vinyl"
+      ],
+      "feeds": [
+        {
+          "title": "Pitchfork",
+          "url": "https://pitchfork.com/feed/feed-news/rss",
+          "site": "https://pitchfork.com/",
+          "about": "Music news, album reviews and best new music."
+        },
+        {
+          "title": "Stereogum",
+          "url": "https://stereogum.com/feed",
+          "site": "https://www.stereogum.com/",
+          "about": "Indie and alternative music news, reviews and premieres."
+        },
+        {
+          "title": "NPR Music",
+          "url": "https://feeds.npr.org/1039/rss.xml",
+          "site": "https://www.npr.org/music/",
+          "about": "Music stories, reviews and live sessions from NPR."
+        },
+        {
+          "title": "Consequence",
+          "url": "https://consequence.net/feed/",
+          "site": "https://consequence.net/",
+          "about": "Music and film news, tour dates and reviews."
+        },
+        {
+          "title": "The Guardian - Music",
+          "url": "https://www.theguardian.com/music/rss",
+          "site": "https://www.theguardian.com/music",
+          "about": "Music reviews, interviews and news from The Guardian."
+        },
+        {
+          "title": "Rolling Stone - Music",
+          "url": "https://www.rollingstone.com/music/feed/",
+          "site": "https://www.rollingstone.com/music/",
+          "about": "Music news, reviews and features from Rolling Stone."
+        },
+        {
+          "title": "Billboard",
+          "url": "https://www.billboard.com/feed/",
+          "site": "https://www.billboard.com/",
+          "about": "Chart news, music business and artist coverage."
+        },
+        {
+          "title": "NME",
+          "url": "https://www.nme.com/feed",
+          "site": "https://www.nme.com/",
+          "about": "British music news, reviews and interviews."
+        },
+        {
+          "title": "The Quietus",
+          "url": "https://thequietus.com/feed/",
+          "site": "https://thequietus.com/",
+          "about": "Independent writing on adventurous and underground music."
+        },
+        {
+          "title": "Aquarium Drunkard",
+          "url": "https://aquariumdrunkard.com/feed/",
+          "site": "https://aquariumdrunkard.com/",
+          "about": "Music essays, mixes and interviews digging into overlooked records."
+        },
+        {
+          "title": "Loudwire",
+          "url": "https://loudwire.com/feed/",
+          "site": "https://loudwire.com/",
+          "about": "Hard rock and metal news."
+        },
+        {
+          "title": "Clash",
+          "url": "https://www.clashmusic.com/feed/",
+          "site": "https://www.clashmusic.com/",
+          "about": "UK music and style magazine with news and reviews."
+        },
+        {
+          "title": "JazzTimes",
+          "url": "https://www.jazztimes.com/feed/",
+          "site": "https://jazztimes.com/",
+          "about": "Jazz news, reviews and artist features."
+        },
+        {
+          "title": "Metal Injection",
+          "url": "https://metalinjection.net/feed",
+          "site": "https://metalinjection.net/",
+          "about": "Heavy metal news and releases."
+        }
+      ],
+      "subreddits": [
+        "Music",
+        "LetsTalkMusic",
+        "indieheads",
+        "hiphopheads",
+        "listentothis",
+        "vinyl"
+      ]
+    },
+    {
+      "id": "video-games",
+      "name": "Video Games",
+      "keywords": [
+        "gaming",
+        "video games",
+        "games",
+        "pc gaming",
+        "playstation",
+        "xbox",
+        "nintendo",
+        "switch",
+        "steam",
+        "game reviews",
+        "indie games",
+        "esports",
+        "consoles"
+      ],
+      "feeds": [
+        {
+          "title": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/feed",
+          "site": "https://www.rockpapershotgun.com/",
+          "about": "PC gaming news, reviews and features."
+        },
+        {
+          "title": "Eurogamer",
+          "url": "https://www.eurogamer.net/feed",
+          "site": "https://www.eurogamer.net/",
+          "about": "Video game news, reviews and features from the UK."
+        },
+        {
+          "title": "PC Gamer",
+          "url": "https://www.pcgamer.com/rss/",
+          "site": "https://www.pcgamer.com/",
+          "about": "PC game news, reviews and hardware guides."
+        },
+        {
+          "title": "Polygon",
+          "url": "https://www.polygon.com/feed/",
+          "site": "https://www.polygon.com/",
+          "about": "Gaming news, guides and entertainment culture."
+        },
+        {
+          "title": "Kotaku",
+          "url": "https://kotaku.com/feed",
+          "site": "https://kotaku.com/",
+          "about": "Gaming news, culture and opinion."
+        },
+        {
+          "title": "GameSpot",
+          "url": "https://www.gamespot.com/feeds/mashup/",
+          "site": "https://www.gamespot.com/",
+          "about": "Game news, reviews and trailers."
+        },
+        {
+          "title": "IGN",
+          "url": "https://feeds.ign.com/ign/all",
+          "site": "https://www.ign.com/",
+          "about": "Game and entertainment news, reviews and previews."
+        },
+        {
+          "title": "Game Developer",
+          "url": "https://www.gamedeveloper.com/rss.xml",
+          "site": "https://www.gamedeveloper.com/",
+          "about": "News and postmortems about how games are made and sold."
+        },
+        {
+          "title": "VGC",
+          "url": "https://www.videogameschronicle.com/feed/",
+          "site": "https://www.videogameschronicle.com/",
+          "about": "Video game news and reviews from veteran games journalists."
+        },
+        {
+          "title": "Nintendo Life",
+          "url": "https://www.nintendolife.com/feeds/latest",
+          "site": "https://www.nintendolife.com/",
+          "about": "Nintendo news, reviews and guides."
+        },
+        {
+          "title": "Push Square",
+          "url": "https://www.pushsquare.com/feeds/latest",
+          "site": "https://www.pushsquare.com/",
+          "about": "PlayStation news, reviews and guides."
+        },
+        {
+          "title": "Pure Xbox",
+          "url": "https://www.purexbox.com/feeds/latest",
+          "site": "https://www.purexbox.com/",
+          "about": "Xbox news, reviews and Game Pass coverage."
+        },
+        {
+          "title": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/feed",
+          "site": "https://www.gamesindustry.biz/",
+          "about": "Business news for the games industry."
+        },
+        {
+          "title": "Destructoid",
+          "url": "https://www.destructoid.com/feed/",
+          "site": "https://www.destructoid.com/",
+          "about": "Game news, reviews and community blogs."
+        },
+        {
+          "title": "Aftermath",
+          "url": "https://aftermath.site/rss/",
+          "site": "https://aftermath.site/",
+          "about": "Worker-owned gaming site with reporting and criticism."
+        }
+      ],
+      "subreddits": [
+        "gaming",
+        "Games",
+        "pcgaming",
+        "NintendoSwitch",
+        "truegaming"
+      ]
+    },
+    {
+      "id": "tabletop-games",
+      "name": "Tabletop Games",
+      "keywords": [
+        "board games",
+        "tabletop",
+        "tabletop games",
+        "dnd",
+        "dungeons and dragons",
+        "rpg",
+        "ttrpg",
+        "card games",
+        "wargaming",
+        "warhammer",
+        "miniatures",
+        "boardgames",
+        "pathfinder"
+      ],
+      "feeds": [
+        {
+          "title": "BoardGameGeek News",
+          "url": "https://boardgamegeek.com/rss/blog/1",
+          "site": "https://boardgamegeek.com/blog/1/boardgamegeek-news",
+          "about": "Announcements of new board games and publisher news."
+        },
+        {
+          "title": "EN World",
+          "url": "https://www.enworld.org/ewr-porta/index.rss",
+          "site": "https://www.enworld.org/",
+          "about": "Tabletop RPG news, especially Dungeons & Dragons."
+        },
+        {
+          "title": "Board Game Quest",
+          "url": "https://www.boardgamequest.com/feed/",
+          "site": "https://www.boardgamequest.com/",
+          "about": "Board game reviews, previews and news."
+        },
+        {
+          "title": "Meeple Mountain",
+          "url": "https://www.meeplemountain.com/feed/",
+          "site": "https://www.meeplemountain.com/",
+          "about": "Thoughtful board game reviews and essays."
+        },
+        {
+          "title": "Shut Up & Sit Down",
+          "url": "https://www.shutupandsitdown.com/feed/",
+          "site": "https://www.shutupandsitdown.com/",
+          "about": "Funny, honest board game reviews in writing and video."
+        },
+        {
+          "title": "Wargamer",
+          "url": "https://www.wargamer.com/mainrss.xml",
+          "site": "https://www.wargamer.com/",
+          "about": "Warhammer, D&D and wargaming news and guides."
+        },
+        {
+          "title": "Tabletop Battles (formerly Goonhammer)",
+          "url": "https://www.tabletopbattles.com/feed/",
+          "site": "https://www.tabletopbattles.com/",
+          "about": "Strategy articles and hobby guides for Warhammer and other miniatures games."
+        },
+        {
+          "title": "Bell of Lost Souls",
+          "url": "https://www.belloflostsouls.net/feed",
+          "site": "https://www.belloflostsouls.net/",
+          "about": "Miniatures wargaming and tabletop RPG news."
+        },
+        {
+          "title": "The Alexandrian",
+          "url": "https://thealexandrian.net/feed",
+          "site": "https://thealexandrian.net/",
+          "about": "Justin Alexander's essays on running tabletop RPGs."
+        },
+        {
+          "title": "Gnome Stew",
+          "url": "https://gnomestew.com/feed/",
+          "site": "https://gnomestew.com/",
+          "about": "Advice for game masters running tabletop RPGs."
+        },
+        {
+          "title": "Rascal",
+          "url": "https://www.rascal.news/rss/",
+          "site": "https://www.rascal.news/",
+          "about": "Independent news about tabletop RPGs and indie games."
+        },
+        {
+          "title": "Board Game Wire",
+          "url": "https://boardgamewire.com/index.php/feed/",
+          "site": "https://boardgamewire.com/",
+          "about": "Board game industry and business news."
+        },
+        {
+          "title": "Sly Flourish",
+          "url": "https://slyflourish.com/index.xml",
+          "site": "https://slyflourish.com/",
+          "about": "Lazy game master prep tips for D&D and other RPGs."
+        },
+        {
+          "title": "Spikey Bits",
+          "url": "https://spikeybits.com/feed/",
+          "site": "https://spikeybits.com/",
+          "about": "Warhammer and miniatures news and rumours."
+        },
+        {
+          "title": "The Dice Tower",
+          "url": "https://dicetower.com/rss.xml",
+          "site": "https://www.dicetower.com/",
+          "about": "Board game reviews and news from the Dice Tower network."
+        }
+      ],
+      "subreddits": [
+        "boardgames",
+        "DnD",
+        "rpg",
+        "Warhammer40k",
+        "soloboardgaming"
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "keywords": [
+        "history",
+        "archaeology",
+        "ancient history",
+        "medieval",
+        "world war",
+        "military history",
+        "historical",
+        "ancient rome",
+        "ancient egypt",
+        "historians",
+        "heritage",
+        "antiquity"
+      ],
+      "feeds": [
+        {
+          "title": "HistoryExtra",
+          "url": "https://www.historyextra.com/feed/",
+          "site": "https://www.historyextra.com/",
+          "about": "History features and podcasts from BBC History Magazine."
+        },
+        {
+          "title": "Smithsonian - History",
+          "url": "https://www.smithsonianmag.com/rss/history/",
+          "site": "https://www.smithsonianmag.com/history/",
+          "about": "History stories from Smithsonian magazine."
+        },
+        {
+          "title": "JSTOR Daily",
+          "url": "https://daily.jstor.org/feed/",
+          "site": "https://daily.jstor.org/",
+          "about": "Articles grounding current events and history in scholarly research."
+        },
+        {
+          "title": "The History Blog",
+          "url": "https://www.thehistoryblog.com/feed",
+          "site": "https://www.thehistoryblog.com/",
+          "about": "Daily posts on archaeological finds and historical curiosities."
+        },
+        {
+          "title": "Archaeology Magazine",
+          "url": "https://archaeology.org/feed/",
+          "site": "https://archaeology.org/",
+          "about": "Excavation news and features from the Archaeological Institute of America's magazine."
+        },
+        {
+          "title": "World History Encyclopedia",
+          "url": "https://www.worldhistory.org/rss/",
+          "site": "https://www.worldhistory.org/",
+          "about": "New articles and definitions on ancient and world history."
+        },
+        {
+          "title": "TheCollector",
+          "url": "https://www.thecollector.com/rss/",
+          "site": "https://www.thecollector.com/",
+          "about": "Explainers on history, art, philosophy and the ancient world."
+        },
+        {
+          "title": "Not Even Past",
+          "url": "https://notevenpast.org/feed/",
+          "site": "https://notevenpast.org/",
+          "about": "History essays and book reviews from the University of Texas history department."
+        },
+        {
+          "title": "Medievalists.net",
+          "url": "https://www.medievalists.net/feed/",
+          "site": "https://www.medievalists.net/",
+          "about": "News and articles about the Middle Ages."
+        },
+        {
+          "title": "Military History Now",
+          "url": "https://militaryhistorynow.com/feed/",
+          "site": "https://militaryhistorynow.com/",
+          "about": "Stories and essays on military history."
+        },
+        {
+          "title": "Phys.org - Archaeology",
+          "url": "https://phys.org/rss-feed/science-news/archaeology/",
+          "site": "https://phys.org/science-news/archaeology/",
+          "about": "Archaeology research news collected by Phys.org."
+        },
+        {
+          "title": "The Guardian - Archaeology",
+          "url": "https://www.theguardian.com/science/archaeology/rss",
+          "site": "https://www.theguardian.com/science/archaeology",
+          "about": "Archaeology news from The Guardian."
+        },
+        {
+          "title": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/rss.xml",
+          "site": "https://publicdomainreview.org/",
+          "about": "Essays on forgotten art, books and images now in the public domain."
+        },
+        {
+          "title": "History Hit",
+          "url": "https://www.historyhit.com/feed/",
+          "site": "https://www.historyhit.com/",
+          "about": "Articles on history from the podcast and documentary network."
+        },
+        {
+          "title": "Age of Revolutions",
+          "url": "https://ageofrevolutions.com/feed/",
+          "site": "https://ageofrevolutions.com/",
+          "about": "Scholarly blog on revolutions and political upheaval in history."
+        }
+      ],
+      "subreddits": [
+        "history",
+        "AskHistorians",
+        "badhistory",
+        "ancientrome",
+        "archaeology"
+      ]
+    },
+    {
+      "id": "diy-making",
+      "name": "DIY & Making",
+      "keywords": [
+        "diy",
+        "maker",
+        "making",
+        "electronics",
+        "arduino",
+        "raspberry pi",
+        "3d printing",
+        "woodworking",
+        "home improvement",
+        "crafts",
+        "tools",
+        "hacking hardware",
+        "repair"
+      ],
+      "feeds": [
+        {
+          "title": "Hackaday",
+          "url": "https://hackaday.com/blog/feed/",
+          "site": "https://hackaday.com/",
+          "about": "Daily hardware hacks, electronics builds and maker projects."
+        },
+        {
+          "title": "Make:",
+          "url": "https://makezine.com/feed/",
+          "site": "https://makezine.com/",
+          "about": "Projects, tools and stories from the maker community."
+        },
+        {
+          "title": "Adafruit Blog",
+          "url": "https://blog.adafruit.com/feed/",
+          "site": "https://blog.adafruit.com/",
+          "about": "Electronics projects, new products and maker news."
+        },
+        {
+          "title": "Raspberry Pi News",
+          "url": "https://www.raspberrypi.com/news/feed/",
+          "site": "https://www.raspberrypi.com/news/",
+          "about": "Product news and community projects from Raspberry Pi."
+        },
+        {
+          "title": "Arduino Blog",
+          "url": "https://blog.arduino.cc/feed/",
+          "site": "https://blog.arduino.cc/",
+          "about": "Projects and product news from Arduino."
+        },
+        {
+          "title": "Hackster.io",
+          "url": "https://www.hackster.io/news.atom",
+          "site": "https://www.hackster.io/",
+          "about": "News about hardware projects, dev boards and embedded tech."
+        },
+        {
+          "title": "3DPrint.com",
+          "url": "https://3dprint.com/feed/",
+          "site": "https://3dprint.com/",
+          "about": "News about 3D printing technology and its uses."
+        },
+        {
+          "title": "Family Handyman",
+          "url": "https://www.familyhandyman.com/feed/",
+          "site": "https://www.familyhandyman.com/",
+          "about": "Home repair and improvement how-tos."
+        },
+        {
+          "title": "Popular Woodworking",
+          "url": "https://www.popularwoodworking.com/feed/",
+          "site": "https://www.popularwoodworking.com/",
+          "about": "Woodworking projects, techniques and tool reviews."
+        },
+        {
+          "title": "ToolGuyd",
+          "url": "https://toolguyd.com/feed/",
+          "site": "https://toolguyd.com/",
+          "about": "Power and hand tool news, deals and reviews."
+        },
+        {
+          "title": "Pro Tool Reviews",
+          "url": "https://www.protoolreviews.com/feed/",
+          "site": "https://www.protoolreviews.com/",
+          "about": "Hands-on reviews of power tools and equipment."
+        },
+        {
+          "title": "Core77",
+          "url": "https://feeds.feedburner.com/core77/blog",
+          "site": "https://www.core77.com/",
+          "about": "Industrial design news, tools and process stories."
+        },
+        {
+          "title": "Electronics-Lab",
+          "url": "https://www.electronics-lab.com/feed/",
+          "site": "https://www.electronics-lab.com/",
+          "about": "Electronics projects, components and dev board news."
+        },
+        {
+          "title": "CNX Software",
+          "url": "https://www.cnx-software.com/feed/",
+          "site": "https://www.cnx-software.com/",
+          "about": "News on single-board computers, mini PCs and embedded Linux hardware."
+        },
+        {
+          "title": "iFixit News",
+          "url": "https://www.ifixit.com/News/rss",
+          "site": "https://www.ifixit.com/News",
+          "about": "Teardowns, repair guides and right-to-repair news."
+        }
+      ],
+      "subreddits": [
+        "DIY",
+        "woodworking",
+        "3Dprinting",
+        "arduino",
+        "electronics",
+        "HomeImprovement"
+      ]
+    }
+  ]
+}
