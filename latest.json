@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "released": "2026-11-09",
-  "notes": "Follow a Reddit thread's comments, daily threads included, with a local RSS feed that can stand in for the Reddit RSS ending November 13, and Reddit search entries now show their date and author. Includes the quieter desk from 1.9.0 and read-only AI agent access (MCP) from 1.8.3.",
+  "version": "1.9.4",
+  "released": "2026-11-19",
+  "notes": "Find feeds by topic: type what you want to read about, tick from feeds that were checked a moment ago, and follow them in one folder, with subreddits to match. Also new since 1.9.2: an RSS button at the top of every source, folder and All articles, Export feed list (OPML) for FreshRSS or any reader, and feeds that keep serving with the window closed, from an icon by the clock.",
   "download": "https://app.gumroad.com/library"
 }
