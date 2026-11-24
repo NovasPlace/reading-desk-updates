@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "released": "2026-11-22",
-  "notes": "Start a new desk from a few topics you pick, each in its own folder. Every public feed on GitHub now has its own link, plus one feed list (OPML) for FreshRSS or any reader. The download is now one folder called Reading Desk: close the app, put it over your old folder and replace the files. Bought on readingdeskrss.com? Get the update at readingdeskrss.com/update with the email you bought with.",
+  "version": "1.9.6",
+  "released": "2026-11-24",
+  "notes": "Copy buttons copy again: Keep > Copy original link and Copy title + source no longer say \"Write permission denied\", and the RSS URL and AI agents setup buttons copy without Ctrl+C. Bought on readingdeskrss.com? Get the update at readingdeskrss.com/update with the email you bought with.",
   "download": "https://readingdeskrss.com/update"
 }
